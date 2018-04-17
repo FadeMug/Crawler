@@ -1,0 +1,407 @@
+2017-12-19 08:54:26,011 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-19 08:54:27,201 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:54:39,468 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:54:39,470 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,采集结束,共采集0条...共耗时12268毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:54:39,472 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:54:39,473 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:54:39,695 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:54:39,696 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,采集结束,共采集0条...共耗时220毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:54:39,698 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:54:39,793 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-19 08:55:09,284 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-19 08:55:10,297 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:27,152 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-18 10:07中国铝业公司变身中铝集团 改制为国有独资公司
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:27,259 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-15 09:14连平县铁腕打击非法盗采稀土矿行为
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:27,364 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-14 09:27工信部调研中铝公司稀土业务管理等工作
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:27,471 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-13 16:42中科院海西研究院突破稀土分离关键技术
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:27,581 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-13 10:09质检总局明确进口铜精矿中有毒有害元素限量
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:27,706 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-13 09:25做好巴彦淖尔市稀土企业监管工作
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:27,834 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-12 16:55日本拟取消中国产镝铁合金关税
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:27,939 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-12 14:15产品结构持续优化 中国忠旺铝压延项目正式投产
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:28,048 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-11 16:11白云鄂博矿山公园入选国家矿山公园
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:28,153 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-11 14:18池州发现多个碳酸锰矿（化）体
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:28,258 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-11 08:41安泰科技拟打造稀土永磁业务板块
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:28,412 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-08 14:04赣锋锂业新设全资子公司 试水固态锂电池
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:28,521 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-08 13:17湖南省出台自然保护区内采矿权探矿权退出处置方案
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:28,632 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-08 09:37中铝广西稀土与岑溪市政府签订合作协议
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:28,737 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-07 14:10华昌铝业荣获“南海制造业全国隐形冠军”荣誉称号
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:28,847 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-07 14:06中英企校联合开发石墨烯锂电池技术研发
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:28,960 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-07 14:05中国铝业公司十六项标准项目通过验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:29,064 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-07 14:01“安徽省铜铅锌钼金萤石矿山尾矿调查评价”项目通过验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:29,174 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-07 14:01“安徽省铜铅锌钼金萤石矿山尾矿调查评价”项目通过验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:29,284 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-06 16:22新兴产业强劲需求助推稀土业发展
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:29,387 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-06 16:15日立金属签订基本协议收购三德公司
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:29,504 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-06 13:31河钢承钢航空级片钒产线通过美国钛合金企业认证
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:29,624 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-06 13:29加快稀土及稀贵金属等战略金属二次资源循环利用科技创新与成果转化
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:29,733 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-06 13:26经阁铝业成功发明一种新的铝渣快速处理与回收工艺及设备
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:29,845 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-05 14:04“青能Ⅰ号”固态锂电池系统完成万米海试
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:29,954 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-05 14:00中铝股份青海分公司1235铝箔试制取得阶段性成果
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:30,058 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-05 13:59葫芦岛有色获2017年度中国铅锌行业践行社会责任优秀奖
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:30,178 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-05 10:50中国铝业4家下属公司欲债转股：拟引8家机构共增资126亿
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:30,296 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-04 13:54波音公司投资纳米陶瓷颗粒增强铝
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:30,401 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-04 13:51发祥铝业脱硫改造项目顺利通过环保验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:30,514 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-04 10:14中国消费全球超四成锂 中企南美争夺锂资源
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:30,623 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-01 16:21宝山矿业公司开始销售稀土精矿
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:30,735 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-01 12:40研究人员为镁离子电池找到了一种高效的固态电解质
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:30,841 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-01 12:38高纯度稀土精矿从煤炭中成功提取
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:30,958 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-01 12:35特斯拉建全球最大锂电池储能系统 可支持3万户家庭用电
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:31,091 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 15:09商务部研究赋予自贸港建设地更大改革自主权
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:31,196 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 15:08工信部将持续完善集成电路产业政策
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:31,304 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 15:08环保部将针对重点行业开展机动式环保专项督察
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:31,412 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 15:07发改委明确稳定实体经济的着力点
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:31,529 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 14:52?国家能源集团正式成立
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:56,635 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 13:14美国科学家从煤炭中提炼出高纯度稀土
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:56,787 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 09:17中国铝业氧化铝企业发布大能源管理创新成果
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:56,989 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 09:15广西南南铝加工有限公司获认定为2017年度国家技术创新示范企业
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:57,111 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 09:13中铝西南铝两家单位新产品开发的战果
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:57,444 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 09:07东兴铝业生产出纯度达99.90%的高纯铝
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:57,577 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 09:03产学研推动“重庆造”镁合金产品成果转化
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:57,711 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 09:00神雾两项节能低碳技术亮相中乌科技创新展
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:57,833 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-29 14:42内科大有关轻稀土重点实验室通过验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:57,962 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-29 14:11南方稀土集团11月27日中重稀土挂牌价
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:58,085 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-29 09:44黑斯廷斯科技金属公司签署原住民地权协议
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:58,256 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-28 13:24重庆旗能新型高位分区集气在铝电解中吸氟效果明显
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:58,387 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-28 13:21中国恩菲主编《非煤矿山采矿术语标准》通过审查
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:58,501 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-28 13:19高强度轻量级新型3D打印铝合金，空客飞机联手丰田汽车
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:58,631 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-27 16:22南方稀土集团开展三季度生产经营情况检查
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:58,756 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-27 14:55永昌铅锌获“云南省安全文化建设示范企业”称号
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:58,887 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-27 14:47英国莱斯特大学获得欧盟资金，用于研究其新的铝电池项目
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:59,007 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-27 13:50共促精细氧化铝产业快速发展
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:55:59,882 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-27 13:46新疆众和在军工、石墨烯板块发力布局
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:00,034 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-24 08:58北京科技大学、中色十二冶金建设有限公司联手 赤泥综合利用填补应用空白
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:00,158 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-24 08:47国家标准《钴冶炼工厂工艺设计标准》顺利通过审查
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:00,293 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-23 13:35攀钢技术攻关完善钛材轧制工艺
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:00,417 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-23 13:31东轻“领衔”大飞机与宽体客机用铝合金材料国产化
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:00,539 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-22 14:16韩国开发出蜘蛛网状锂离子电池新材料
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:00,664 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-22 14:13石墨烯基锂电池有了新突破
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:00,785 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-22 14:11铜陵有色位居“2017安徽企业百强”榜榜首
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:00,908 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-22 14:09云铜股份顺利获得海关AEO“高级认证企业”资质
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:01,036 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-21 14:41 全球金属矿产勘查投入回升
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:01,158 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-21 13:44厦门稀土材料研究所院士专家工作站获授牌
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:01,285 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-21 13:35银光表面处理中心开发出YGB08军工用镁合金金色及黑色导电氧化工艺
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:01,415 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-20 13:13南山铝业喜获山东省节能突出贡献企业奖
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:01,535 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-20 13:10水口山硫精矿压滤系统改造取得重大突破
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:01,663 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-19 21:26 全球矿业或将开启新的周期
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:01,785 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-19 21:02北方稀土助力创建稀土产品质量安全示范区
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:01,908 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-19 20:56金山磁材重视研发形成技术优势
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:02,035 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-17 10:49山西铝业氧化铝二期溶出隔膜泵隔膜频繁破裂难题攻关取得重大突破
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:02,187 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-17 10:473D打印材料再添强援！LPW将生产空客Scalmalloy铝合金粉末
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:02,307 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-16 15:30北方稀土集团11月份挂牌价格4跌2平
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:02,432 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-16 14:05中国成功制备高效去除水体重金属新材料
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:02,554 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-16 14:04水口山公司优化吹锑工艺杜绝低空污染
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:02,697 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-16 14:01华中铜业获首个国家发明专利
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:12,084 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-16 09:102017（第三届）中国稀土论坛在南宁召开
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:12,230 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-15 14:29创镁团队研发轻质高强韧镁合金板带材成形技术
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:12,379 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-15 14:23宁德成全球最大聚合物锂离子电池生产基地
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:12,510 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-15 14:19中铝山西新材料有限公司铝液质量创历史最好水平
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:12,627 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-15 14:15金川集团精密铜材公司荣获全国铜管加工企业优质供应商十强企业
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:12,752 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-15 11:03前三季度有色金属行业效益持续向好
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:12,862 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-15 09:33中国稀土硫化物及稀土光源院士工作站揭牌
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:12,981 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-14 14:17中孚炭素公司正式迈入“超低排放”时代
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:13,094 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-14 14:09年产4000万套高端锂电池结构件项目落户南川
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:13,233 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-14 13:59铜冠铜箔公司新产品打破国际技术垄断
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:13,342 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 16:11天骄清美稀土抛光粉产销量达到历史记录
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:13,456 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 15:21海南将大力推进国家战略性矿产勘查开发
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:13,806 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 13:37中铝江苏稀土一科技成果达到国际领先水平
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:14,269 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 13:34《国家标准再生铅及铅合金锭》发布
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:14,604 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 10:16北方稀土三季度利润改善明显
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:15,027 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 10:01寻乌恒源科技稀土金属合金项目立项通过
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:15,160 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 09:53税收政策助力江西打造“中国稀金谷”
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:15,277 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-10 13:38零甲醛的全铝家居应走自己的路
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:15,405 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-10 13:33北京矿冶总院两项科技成果达到国际水平
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:15,515 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-09 15:22大规格镁合金锭坯潜流式半连续铸造技术获得成功
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:15,633 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-09 15:10忠旺集团铝合金构件“登上”高速列车
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:15,746 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-08 13:26欧盟科学家利用离子液体从矿渣中回收稀土元素
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:15,860 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-08 13:24　国家科技惠民计划“定南县废弃稀土矿区生态修复示范”项目顺利通过验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:15,983 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-08 13:13青海投资集团桥头铝电公司成功试制出5083合金扁锭
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:16,099 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-07 13:22中铝山西新材料有限公司新型压铸铝合金散热器项目可研报告通过专家论证
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:16,215 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-07 13:12陶瓷线路板解决锂电池终极难题
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:16,333 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-07 13:09江铜标准化工作获多项行业大奖
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:16,446 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-06 11:17稀土脱硝催化剂国家标准将实施
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:16,559 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-06 10:58中国科学院金属研究所与白俄罗斯科学院物理技术研究所成立中白联合实验室
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:16,736 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-06 10:56银光集团成功开发并量产大截面、高精度、超长镁合金列车型材
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:16,854 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-06 10:45河南永登铝业精益管理系统获中国有色金属工业企业管理现代化成果二等奖
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:16,965 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-03 13:00云铜集团在中铝创新创意大赛西南片区复赛中荣获第二名
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:17,087 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-03 12:48科学家们研发新型水基锂电池 防爆防火
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:17,204 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-03 12:46紫金铜业阴极铜获评福建省名牌产品
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:17,314 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-02 14:50北方稀土与厦门钨业签署战略合作框架协议
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:17,429 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-02 14:55我国钛白粉应用检测水平国际先进 业内首家CNAS认证实验室诞生
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:17,554 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-02 14:50江铜集团荣获江西省首届“赣鄱慈善奖”
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:17,661 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-02 14:17钕铁硼上市企业前三季度净利润同比下降
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:17,774 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-01 14:16北方稀土与包钢股份重新签订稀土合同
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:17,886 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-01 13:44国家重点研发计划“轻质高强镁合金集成计算与制备”项目成功召开
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:18,154 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-01 13:32博天环境成功攻克铝土选矿废水处理与回用难题
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:18,263 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-31 14:16工信部公布《产业关键共性技术发展指南》
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:18,380 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-31 13:59南方稀土集团10月30日中重稀土挂牌价
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:18,493 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-31 13:38运城市专题研究国家新型铝镁合金基地建设方案
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:18,608 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-31 13:34中科院上海硅酸盐所等研制出新型耐高温锂电池隔膜
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:18,730 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-31 13:25云南冶金集团多种涉铝科技计划项目顺利通过验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:18,838 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-31 13:18张家港铜业工艺技术进一步提升
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:18,960 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-31 13:14LME将推出新的硫酸镍合同迎接电动汽车时代
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:19,085 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-31 09:55包头稀土高新区主要稀土产品产量保持增长
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:19,207 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-30 13:57矿山环境治理和土地整理的PPP模式辨析
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:19,335 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-30 13:57中科院过程所与亘源环保开展合作 深入研究废铝灰等物质的循环利用
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:19,449 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-30 13:55广灵精华集团喂牛用“镁胶囊”出口澳大利亚
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:19,561 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-30 13:51十五冶三公司中铝东南铜冶炼项目吹炼炉沉淀池底梁与底板预拼装通过验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:19,740 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-30 13:38两项标准样品获国家标准委批准
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:19,960 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-30 10:44全国首批有色行业排污许可证发放
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:20,108 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-30 10:43美公布对中国铝箔产品反倾销调查初裁 商务部回应
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:20,216 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-27 14:44武汉镁里镁科技：让“复兴号”用上“鄂州造”
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:20,356 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-27 14:39河南维可托：镁合金焊丝彻底解决了镁合金的焊接问题
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:20,465 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-27 14:37科技部：锂离子动力电池高容量硅/碳负极材料取得突破
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:20,586 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-27 09:07白云铁矿被评为国家级绿色矿山试点单位
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:20,700 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-27 08:49中国铝业郑州研究院三项工业烟气净化技术达到国际先进水平
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:20,822 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-27 08:412020年基本建成稀土等产品追溯标准体系
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:20,950 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-26 14:09山东将建七大追溯体系
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:21,066 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-26 13:26中铝山西新材料公司迈出氧化铝赤泥资源化利用第一步
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:21,180 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-26 13:22亚太科技投资建设汽车转向机构用铝合金型材技术改造项目
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:21,289 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-26 10:08工信部正开展第四批铜冶炼企业规范公告工作
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:21,401 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-25 13:16国家金属腐蚀控制研究中心研发的镁合金表面处理技术取得广泛应用
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:21,532 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-24 14:43南方稀土集团10月24日中重稀土挂牌价
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:21,659 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-24 14:28西北铝一创新成果获国家实用新型专利
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:21,775 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-24 14:26江苏佳铝主编参编的两项国家标准发布
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:21,886 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-24 14:22明泰铝业：1060动力电池软连接用铝卷研发成功，批量投产
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:22,011 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-23 14:24国产稀土环保颜料首次批量销往海外市场
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:22,137 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-23 13:27铜冠池州资源公司荣获年度省控“环保诚信企业”称号
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:22,257 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-20 09:49铝基块体非晶材料研究取得新进展
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:22,366 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-20 09:47深圳先进院研发出基于核壳结构铝碳负极的双离子电池
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:22,509 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-20 09:40辉能登国际电池论坛 携新一代黑科技锂电池入市
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:22,630 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-20 09:26河南省出台稀土行业淘汰落后产能标准
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:23,119 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-19 14:50金钼汝阳东沟钼矿入库国家级绿色矿山名录
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:24,095 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-19 09:16Lynas公司3季度稀土创销售收入纪录
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:56:24,331 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:10-18 13:26微软宣布推出Surface Precision鼠标 采用铝制按钮和滚轮
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:10,887 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,采集结束,共采集0条...共耗时180169毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:11,292 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:15,825 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:39,762 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 15:18金川集团安全生产工作受肯定
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:39,881 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 12:562017年我国动力电池产量将止步于32GWh
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:40,010 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 12:52巴斯夫和户田工业加强在正极材料领域的合作与投资
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:40,126 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 12:42装机量占比近5成,2017成三元动力发力元年
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:40,237 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 12:37中兴派能获全球首张储能系统VDE认证
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:40,350 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 12:282018年新能源电动汽车地方补贴或将取消
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:40,580 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 14:522018年全球108GW太阳能产量中国将占一半
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:40,691 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 14:09太钢让“蚂蚁客户”享受VIP待遇 
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:40,796 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 12:01两办发布公务用车管理办法，党政机关应带头使用新能源汽车
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:40,906 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 11:542017年10月新能源专用车产销分别环比增加1.99倍与2.19倍
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:41,011 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 10:48中国提出新的固废进口标准 废有色金属夹杂物含量不超1%
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:41,116 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 10:47河北唐山对环保治理水平差的企业增加停限产比例
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:41,250 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 10:45中国将主宰电动车制造资源 俄媒：或成全球电动车工厂
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:41,358 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 09:01Aurubis将在欧洲新冶炼厂投资3.75亿美元
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:41,463 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 08:58冠城大通动力锂电池一期项目竣工投产
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:41,568 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 14:14宁夏银川公布首批错峰生产企业 涉及有色金属冶炼行业
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:41,680 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 14:01车企&动力电池 "联姻"大盘点 深度绑定模式已拉开帷幕
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:41,788 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:56国家能源局：十年左右中国清洁能源发电装机可超煤电
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:41,893 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:52丰田松下建联盟拟制定车载电池业统一标准
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:42,007 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:48国家电网将加大“一带一路”沿线国家投资
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:42,113 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:44中钜新能源锂电池生产基地项目落户淮北
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:42,217 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:42中国发现超级金属 航空发动机将迎大进展
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:42,325 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:41加快实现电池行业的智能制造是电池企业的战略决策
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:42,444 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:33易事特拟29亿元揽入越南光伏制造资产 布局全球光伏产业链
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:42,553 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:31茂能集团签澳大利亚最大太阳能购电协议
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:42,660 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:29IEA：中国能源需求增速降至每年1%左右
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:42,779 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:22中企填补印尼氧化铝项目空白 “一带一路”为印尼带来新机遇
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:42,886 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 10:37中州铝业合成研究实验室揭牌
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:43,001 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 10:34新能源汽车遭遇新烦恼 业界期待政府扶持的手更稳健
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:43,115 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 10:2311月中国造船业新接造船订单量为91万CGT
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:43,231 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 09:42丰田联合松下研发方形电池技术
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:43,342 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 09:36纯电动物流车10月暴增7倍
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:43,464 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 09:09年产2万吨碳酸锂项目落户遂宁
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:43,573 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 09:05金川科技攻关大会召开
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:43,702 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-13 15:32太钢高端产品精彩亮相世界不锈钢展会 
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:43,814 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-13 15:13中设集团赢得马来西亚最大光伏电站项目
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:43,921 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-13 15:13台湾太阳能需求增加 新日光获益
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:44,034 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-13 15:12茂能集团签澳大利亚最大太阳能项目
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:58:44,160 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-13 13:38超硬材料国家重点实验室落户金湾
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:59:04,847 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,采集结束,共采集1条...共耗时48095毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:59:05,499 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 08:59:10,827 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-19 09:08:37,474 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-19 09:08:38,856 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:52,700 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-18 10:07中国铝业公司变身中铝集团 改制为国有独资公司
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:53,028 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-15 09:14连平县铁腕打击非法盗采稀土矿行为
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:54,281 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-14 09:27工信部调研中铝公司稀土业务管理等工作
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:55,230 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-13 16:42中科院海西研究院突破稀土分离关键技术
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:55,842 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-13 10:09质检总局明确进口铜精矿中有毒有害元素限量
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:56,691 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-13 09:25做好巴彦淖尔市稀土企业监管工作
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:57,153 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-12 16:55日本拟取消中国产镝铁合金关税
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:57,434 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-12 14:15产品结构持续优化 中国忠旺铝压延项目正式投产
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:57,731 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-11 16:11白云鄂博矿山公园入选国家矿山公园
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:58,188 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-11 14:18池州发现多个碳酸锰矿（化）体
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:58,625 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-11 08:41安泰科技拟打造稀土永磁业务板块
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:59,047 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-08 14:04赣锋锂业新设全资子公司 试水固态锂电池
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:59,442 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-08 13:17湖南省出台自然保护区内采矿权探矿权退出处置方案
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:59,789 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-08 09:37中铝广西稀土与岑溪市政府签订合作协议
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:08:59,930 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-07 14:10华昌铝业荣获“南海制造业全国隐形冠军”荣誉称号
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:00,169 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-07 14:06中英企校联合开发石墨烯锂电池技术研发
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:00,652 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-07 14:05中国铝业公司十六项标准项目通过验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:00,980 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-07 14:01“安徽省铜铅锌钼金萤石矿山尾矿调查评价”项目通过验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:01,142 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-07 14:01“安徽省铜铅锌钼金萤石矿山尾矿调查评价”项目通过验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:01,264 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-06 16:22新兴产业强劲需求助推稀土业发展
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:01,393 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-06 16:15日立金属签订基本协议收购三德公司
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:01,518 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-06 13:31河钢承钢航空级片钒产线通过美国钛合金企业认证
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:01,638 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-06 13:29加快稀土及稀贵金属等战略金属二次资源循环利用科技创新与成果转化
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:01,764 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-06 13:26经阁铝业成功发明一种新的铝渣快速处理与回收工艺及设备
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:01,914 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-05 14:04“青能Ⅰ号”固态锂电池系统完成万米海试
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:02,027 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-05 14:00中铝股份青海分公司1235铝箔试制取得阶段性成果
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:02,181 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-05 13:59葫芦岛有色获2017年度中国铅锌行业践行社会责任优秀奖
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:02,299 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-05 10:50中国铝业4家下属公司欲债转股：拟引8家机构共增资126亿
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:02,420 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-04 13:54波音公司投资纳米陶瓷颗粒增强铝
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:02,547 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-04 13:51发祥铝业脱硫改造项目顺利通过环保验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:02,665 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-04 10:14中国消费全球超四成锂 中企南美争夺锂资源
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:02,787 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-01 16:21宝山矿业公司开始销售稀土精矿
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:02,914 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-01 12:40研究人员为镁离子电池找到了一种高效的固态电解质
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:03,029 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-01 12:38高纯度稀土精矿从煤炭中成功提取
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:03,145 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-01 12:35特斯拉建全球最大锂电池储能系统 可支持3万户家庭用电
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:03,269 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 15:09商务部研究赋予自贸港建设地更大改革自主权
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:03,388 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 15:08工信部将持续完善集成电路产业政策
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:03,510 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 15:08环保部将针对重点行业开展机动式环保专项督察
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:03,626 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 15:07发改委明确稳定实体经济的着力点
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:03,758 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 14:52?国家能源集团正式成立
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:03,995 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 13:14美国科学家从煤炭中提炼出高纯度稀土
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:04,113 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 09:17中国铝业氧化铝企业发布大能源管理创新成果
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:04,232 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 09:15广西南南铝加工有限公司获认定为2017年度国家技术创新示范企业
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:04,348 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 09:13中铝西南铝两家单位新产品开发的战果
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:04,466 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 09:07东兴铝业生产出纯度达99.90%的高纯铝
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:04,582 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 09:03产学研推动“重庆造”镁合金产品成果转化
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:04,718 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-30 09:00神雾两项节能低碳技术亮相中乌科技创新展
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:05,517 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-29 14:42内科大有关轻稀土重点实验室通过验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:06,667 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-29 14:11南方稀土集团11月27日中重稀土挂牌价
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:06,788 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-29 09:44黑斯廷斯科技金属公司签署原住民地权协议
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:06,952 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-28 13:24重庆旗能新型高位分区集气在铝电解中吸氟效果明显
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:07,085 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-28 13:21中国恩菲主编《非煤矿山采矿术语标准》通过审查
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:07,231 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-28 13:19高强度轻量级新型3D打印铝合金，空客飞机联手丰田汽车
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:07,347 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-27 16:22南方稀土集团开展三季度生产经营情况检查
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:07,466 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-27 14:55永昌铅锌获“云南省安全文化建设示范企业”称号
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:07,615 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-27 14:47英国莱斯特大学获得欧盟资金，用于研究其新的铝电池项目
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:07,731 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-27 13:50共促精细氧化铝产业快速发展
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:07,848 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-27 13:46新疆众和在军工、石墨烯板块发力布局
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:07,967 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-24 08:58北京科技大学、中色十二冶金建设有限公司联手 赤泥综合利用填补应用空白
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:08,097 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-24 08:47国家标准《钴冶炼工厂工艺设计标准》顺利通过审查
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:08,213 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-23 13:35攀钢技术攻关完善钛材轧制工艺
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:08,335 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-23 13:31东轻“领衔”大飞机与宽体客机用铝合金材料国产化
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:08,447 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-22 14:16韩国开发出蜘蛛网状锂离子电池新材料
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:08,593 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-22 14:13石墨烯基锂电池有了新突破
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:08,741 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-22 14:11铜陵有色位居“2017安徽企业百强”榜榜首
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:08,927 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-22 14:09云铜股份顺利获得海关AEO“高级认证企业”资质
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:09,072 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-21 14:41 全球金属矿产勘查投入回升
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:09,189 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-21 13:44厦门稀土材料研究所院士专家工作站获授牌
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:09,314 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-21 13:35银光表面处理中心开发出YGB08军工用镁合金金色及黑色导电氧化工艺
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:09,438 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-20 13:13南山铝业喜获山东省节能突出贡献企业奖
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:09,556 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-20 13:10水口山硫精矿压滤系统改造取得重大突破
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:09,673 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-19 21:26 全球矿业或将开启新的周期
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:09,790 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-19 21:02北方稀土助力创建稀土产品质量安全示范区
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:09,911 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-19 20:56金山磁材重视研发形成技术优势
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:10,039 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-17 10:49山西铝业氧化铝二期溶出隔膜泵隔膜频繁破裂难题攻关取得重大突破
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:10,165 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-17 10:473D打印材料再添强援！LPW将生产空客Scalmalloy铝合金粉末
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:10,287 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-16 15:30北方稀土集团11月份挂牌价格4跌2平
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:10,404 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-16 14:05中国成功制备高效去除水体重金属新材料
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:10,517 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-16 14:04水口山公司优化吹锑工艺杜绝低空污染
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:10,630 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-16 14:01华中铜业获首个国家发明专利
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:10,866 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-16 09:102017（第三届）中国稀土论坛在南宁召开
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:10,981 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-15 14:29创镁团队研发轻质高强韧镁合金板带材成形技术
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:11,137 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-15 14:23宁德成全球最大聚合物锂离子电池生产基地
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:11,266 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-15 14:19中铝山西新材料有限公司铝液质量创历史最好水平
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:11,377 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-15 14:15金川集团精密铜材公司荣获全国铜管加工企业优质供应商十强企业
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:11,497 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-15 11:03前三季度有色金属行业效益持续向好
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:11,616 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-15 09:33中国稀土硫化物及稀土光源院士工作站揭牌
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:11,743 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-14 14:17中孚炭素公司正式迈入“超低排放”时代
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:11,864 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-14 14:09年产4000万套高端锂电池结构件项目落户南川
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:11,987 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-14 13:59铜冠铜箔公司新产品打破国际技术垄断
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:12,113 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 16:11天骄清美稀土抛光粉产销量达到历史记录
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:12,234 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 15:21海南将大力推进国家战略性矿产勘查开发
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:12,358 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 13:37中铝江苏稀土一科技成果达到国际领先水平
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:12,484 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 13:34《国家标准再生铅及铅合金锭》发布
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:12,604 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 10:16北方稀土三季度利润改善明显
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:12,718 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 10:01寻乌恒源科技稀土金属合金项目立项通过
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:12,838 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-13 09:53税收政策助力江西打造“中国稀金谷”
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:13,111 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-10 13:38零甲醛的全铝家居应走自己的路
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:13,264 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-10 13:33北京矿冶总院两项科技成果达到国际水平
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:13,426 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-09 15:22大规格镁合金锭坯潜流式半连续铸造技术获得成功
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:13,545 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-09 15:10忠旺集团铝合金构件“登上”高速列车
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:13,665 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-08 13:26欧盟科学家利用离子液体从矿渣中回收稀土元素
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:13,782 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-08 13:24　国家科技惠民计划“定南县废弃稀土矿区生态修复示范”项目顺利通过验收
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:13,908 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-08 13:13青海投资集团桥头铝电公司成功试制出5083合金扁锭
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:14,062 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-07 13:22中铝山西新材料有限公司新型压铸铝合金散热器项目可研报告通过专家论证
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:14,224 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-07 13:12陶瓷线路板解决锂电池终极难题
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:14,342 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-07 13:09江铜标准化工作获多项行业大奖
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:14,465 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-06 11:17稀土脱硝催化剂国家标准将实施
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:14,597 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-06 10:58中国科学院金属研究所与白俄罗斯科学院物理技术研究所成立中白联合实验室
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:14,713 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-06 10:56银光集团成功开发并量产大截面、高精度、超长镁合金列车型材
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:14,871 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-06 10:45河南永登铝业精益管理系统获中国有色金属工业企业管理现代化成果二等奖
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:14,989 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-03 13:00云铜集团在中铝创新创意大赛西南片区复赛中荣获第二名
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:15,107 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-03 12:48科学家们研发新型水基锂电池 防爆防火
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:15,225 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-03 12:46紫金铜业阴极铜获评福建省名牌产品
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:15,340 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-02 14:50北方稀土与厦门钨业签署战略合作框架协议
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:15,462 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-02 14:55我国钛白粉应用检测水平国际先进 业内首家CNAS认证实验室诞生
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:09:15,581 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:11-02 14:50江铜集团荣获江西省首届“赣鄱慈善奖”
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:19:45,533 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-19 09:19:46,597 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:19:51,133 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:19:54,849 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,采集结束,共采集0条...共耗时8250毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:19:54,852 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:19:54,853 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:20:55,893 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:20:56,009 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,采集结束,共采集2条...共耗时61154毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:20:56,011 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:20:56,077 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-19 09:21:26,262 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-19 09:21:27,315 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:21:28,477 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:21:28,478 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,采集结束,共采集0条...共耗时1162毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:21:28,480 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:21:28,481 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:21:28,688 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:21:28,689 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,采集结束,共采集0条...共耗时206毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:21:28,691 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:21:28,789 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-19 09:22:07,755 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-19 09:22:08,852 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:27:21,962 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-19 09:27:23,194 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:27:55,068 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:12-14 09:27工信部调研中铝公司稀土业务管理等工作
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:27:55,070 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:27:55,179 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,采集结束,共采集2条...共耗时31984毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:27:55,181 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:27:55,182 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:05,353 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-19 09:14冠城大通锂电池项目竣工投产
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:05,464 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-19 08:58大东南子公司锂电池全面供给江苏百能
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:05,571 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 15:18金川集团安全生产工作受肯定
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:05,682 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 12:562017年我国动力电池产量将止步于32GWh
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:05,793 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 12:52巴斯夫和户田工业加强在正极材料领域的合作与投资
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:05,904 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 12:42装机量占比近5成,2017成三元动力发力元年
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:06,019 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 12:37中兴派能获全球首张储能系统VDE认证
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:06,126 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 12:282018年新能源电动汽车地方补贴或将取消
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:06,240 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-18 09:38财政部：2018年1月1日起取消钢材等产品的出口关税
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:06,368 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 14:522018年全球108GW太阳能产量中国将占一半
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:06,474 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 14:09太钢让“蚂蚁客户”享受VIP待遇 
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:06,586 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 12:01两办发布公务用车管理办法，党政机关应带头使用新能源汽车
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:06,705 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 11:542017年10月新能源专用车产销分别环比增加1.99倍与2.19倍
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:06,827 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 10:48中国提出新的固废进口标准 废有色金属夹杂物含量不超1%
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:06,937 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 10:47河北唐山对环保治理水平差的企业增加停限产比例
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:07,047 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 10:45中国将主宰电动车制造资源 俄媒：或成全球电动车工厂
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:07,169 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 09:01Aurubis将在欧洲新冶炼厂投资3.75亿美元
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:07,275 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-15 08:58冠城大通动力锂电池一期项目竣工投产
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:07,386 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 14:14宁夏银川公布首批错峰生产企业 涉及有色金属冶炼行业
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:07,498 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 14:01车企&动力电池 "联姻"大盘点 深度绑定模式已拉开帷幕
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:07,622 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:56国家能源局：十年左右中国清洁能源发电装机可超煤电
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:07,734 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:52丰田松下建联盟拟制定车载电池业统一标准
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:07,922 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:48国家电网将加大“一带一路”沿线国家投资
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:08,028 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:44中钜新能源锂电池生产基地项目落户淮北
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:08,177 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:42中国发现超级金属 航空发动机将迎大进展
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:08,291 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:41加快实现电池行业的智能制造是电池企业的战略决策
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:08,400 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:33易事特拟29亿元揽入越南光伏制造资产 布局全球光伏产业链
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:08,514 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:31茂能集团签澳大利亚最大太阳能购电协议
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:08,625 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:29IEA：中国能源需求增速降至每年1%左右
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:08,741 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 13:22中企填补印尼氧化铝项目空白 “一带一路”为印尼带来新机遇
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:08,863 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 10:37中州铝业合成研究实验室揭牌
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:08,976 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 10:34新能源汽车遭遇新烦恼 业界期待政府扶持的手更稳健
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:09,263 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 10:2311月中国造船业新接造船订单量为91万CGT
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:09,371 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 09:42丰田联合松下研发方形电池技术
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:09,486 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 09:36纯电动物流车10月暴增7倍
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:09,600 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 09:09年产2万吨碳酸锂项目落户遂宁
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:09,717 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,存在相同【标题】的文章:12-14 09:05金川科技攻关大会召开
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:09,720 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:09,759 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-相关行业,采集结束,共采集3条...共耗时14574毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:09,761 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-19 09:28:09,860 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname

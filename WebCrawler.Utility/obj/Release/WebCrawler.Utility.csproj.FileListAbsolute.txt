@@ -1,0 +1,7 @@
+D:\project\datacollection\WebCrawler.Utility\bin\Release\WebCrawler.Utility.dll
+D:\project\datacollection\WebCrawler.Utility\bin\Release\WebCrawler.Utility.pdb
+D:\project\datacollection\WebCrawler.Utility\bin\Release\Newtonsoft.Json.dll
+D:\project\datacollection\WebCrawler.Utility\bin\Release\Newtonsoft.Json.xml
+D:\project\datacollection\WebCrawler.Utility\obj\Release\WebCrawler.Utility.csproj.CoreCompileInputs.cache
+D:\project\datacollection\WebCrawler.Utility\obj\Release\WebCrawler.Utility.dll
+D:\project\datacollection\WebCrawler.Utility\obj\Release\WebCrawler.Utility.pdb

@@ -1,0 +1,15 @@
+2017-11-28 09:01:59,199 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-28 09:02:14,422 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-28 09:02:34,264 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,存在相同【标题】的文章:2017年泛珠三角区域环保合作环境宣教工作研讨会在昆举行
+ WebCrawlerConsole.DoMain.Crawlername2017-11-28 09:02:34,902 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,存在相同【标题】的文章:2017年省绿色创建领导小组成员单位联络员工作协调会召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-28 09:02:35,378 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,存在相同【标题】的文章:云南省第三环境保护督察组进驻红河州——张登亮任组长
+ WebCrawlerConsole.DoMain.Crawlername2017-11-28 09:02:35,563 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,存在相同【标题】的文章:省委省政府第二环保督察组听取省市两级代表委员意见建议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-28 09:02:35,737 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,存在相同【标题】的文章:云南省环境工程评估中心深入开展“挂包帮”“转走访”回访工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-28 09:02:35,881 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,存在相同【标题】的文章:云南省环境保护厅组织召开2017年生态文明建设示范区创建工作培训会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-28 09:02:36,216 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,存在相同【标题】的文章:云南稳步推进地表水环境质量监测事权上收上下联动走活一盘棋
+ WebCrawlerConsole.DoMain.Crawlername2017-11-28 09:02:36,219 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-28 09:02:38,844 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,采集结束,共采集0条...共耗时24119毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-28 09:02:38,846 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-28 09:02:39,174 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-28 09:02:49,094 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname

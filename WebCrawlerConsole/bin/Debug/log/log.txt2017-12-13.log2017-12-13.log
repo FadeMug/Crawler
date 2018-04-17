@@ -1,0 +1,81 @@
+2017-12-13 16:10:16,136 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-13 16:10:29,375 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:31,653 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:31,655 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评,采集结束,共采集0条...共耗时2277毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:31,657 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:32,417 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-锡采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:33,177 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-锡,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:33,178 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-锡,采集结束,共采集0条...共耗时758毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:33,180 [5] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:33,919 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-最新发布采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:33,954 [6] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-环境要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:34,369 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 统计局-最新发布,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:34,371 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-最新发布,采集结束,共采集0条...共耗时449毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:34,372 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:34,373 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-数据解读采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:34,787 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 统计局-数据解读,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:34,788 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-数据解读,采集结束,共采集0条...共耗时413毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:34,790 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:35,856 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:40,728 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-日常新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:41,874 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 商务部-日常新闻,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:41,876 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-日常新闻,采集结束,共采集0条...共耗时1143毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:41,880 [11] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:41,882 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-专题新闻发布采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:41,969 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 商务部-专题新闻发布,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:41,975 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-专题新闻发布,采集结束,共采集0条...共耗时91毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:41,977 [11] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:41,979 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-新闻发言人谈话采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:42,118 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 商务部-新闻发言人谈话,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:42,120 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-新闻发言人谈话,采集结束,共采集0条...共耗时136毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:42,122 [11] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:43,364 [19] INFO  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:46,687 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江锡业网-锡评】采集失败,基础提供程序在 Open 上失败。
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:48,183 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【亚洲金属网-锡】采集失败,基础提供程序在 Open 上失败。
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:49,792 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 【统计局-数据解读】采集失败,基础提供程序在 Open 上失败。
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:51,012 [6] ERROR WebCrawlerConsole.DoMain.Crawler - 【环保部-环境要闻】采集失败,基础提供程序在 Open 上失败。
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:54,593 [30] INFO  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:56,512 [17] INFO  WebCrawlerConsole.DoMain.Crawler - 上海市环境保护局-环保要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:57,126 [11] ERROR WebCrawlerConsole.DoMain.Crawler - 【商务部-新闻发言人谈话】采集失败,基础提供程序在 Open 上失败。
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:10:58,849 [19] ERROR WebCrawlerConsole.DoMain.Crawler - 【七彩云南保护行动网-热点聚焦】采集失败,基础提供程序在 Open 上失败。
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:00,585 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作,存在相同【标题】的文章:工业和信息化部关于举办2018年“创客中国”创新创业大赛的通知
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:00,588 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:03,898 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 上海市环境保护局-环保要闻,存在相同【标题】的文章:2017-12-10学习宣传贯彻十九大精神 全力打好污染防治攻坚战
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:03,901 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 上海市环境保护局-环保要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:03,907 [17] INFO  WebCrawlerConsole.DoMain.Crawler - 上海市环境保护局-环保要闻,采集结束,共采集0条...共耗时7390毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:03,910 [17] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:09,578 [30] ERROR WebCrawlerConsole.DoMain.Crawler - 【中国电池网-行业资讯】采集失败,基础提供程序在 Open 上失败。
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:17,942 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作,采集结束,共采集1条...共耗时42081毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:17,944 [12] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:17,946 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:19,461 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻,存在相同【标题】的文章:习近平主持中共中央政治局第二次集体学习
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:20,959 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻,存在相同【标题】的文章:中共中央政治局召开会议 分析研究2018年经济工作 中共中央总书记习近平主持会议
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:20,962 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:20,964 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻,采集结束,共采集1条...共耗时3015毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:20,969 [12] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:20,971 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:22,589 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:北航代表团赴日本京都参加ICG-12大会
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:23,798 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:装备工业司党支部组织“反腐倡廉每季一课”第四季度专题学习
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:24,995 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:内蒙古通信管理局开展行风纠风和安全生产检查
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:26,309 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:国际期刊“Chem Soc Rev”刊登南理工研究进展
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:27,396 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:广东经信委赴佛山开展工业投资、军民融合、产融合作等工作调研督查
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:28,406 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:智利费德里科圣玛利亚理工大学代表团访问北理工
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:29,284 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:《中国智能制造绿皮书（2017）》正式发布
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:30,261 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:青海推进移动通信铁塔站址用地及规划工作
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:31,400 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:重庆直属机关工委常务副书记到市通信管理局进行党的十九大精神专题宣讲
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:32,666 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:哈工大《公共管理学报》影响因子在中国政治类期刊中位列第一
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:34,396 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:西工大中英合作成果亮相中英科技创新合作发展论坛与成果展
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:34,400 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:34,402 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,采集结束,共采集1条...共耗时13427毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:34,406 [12] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:34,408 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-领导活动采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:36,602 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-领导活动,存在相同【标题】的文章:苗圩到河南省通信管理局检查考核落实全面从严治党责任制工作
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:36,605 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-领导活动,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:36,610 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-领导活动,采集结束,共采集1条...共耗时2200毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:36,613 [12] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-13 16:11:44,950 [1] ERROR WebCrawler.Services.Program - 程序异常:   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks)
+   在 WebCrawler.Services.Program.Main(String[] args) 位置 D:\project\datacollection\WebCrawlerConsole\Program.cs:行号 223
+ WebCrawler.Services.Programname2017-12-13 16:11:44,960 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname

@@ -1,0 +1,778 @@
+2018-03-07 13:44:31,590 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2018-03-07 13:44:32,970 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 有色金属网-锡采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:32,970 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-环境要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:32,970 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:33,456 [9] INFO  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:34,164 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 有色金属网-锡,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:34,165 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 有色金属网-锡,采集结束,共采集0条...共耗时1194毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:34,166 [5] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:34,167 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:34,434 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:34,435 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评,采集结束,共采集0条...共耗时1463毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:34,437 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:34,877 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:34,915 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-最新发布采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:34,979 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-日常新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,105 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,157 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,230 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-环境要闻,存在相同【标题】的文章:相互促进打好三大攻坚战
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,260 [6] INFO  WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-锡采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,272 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,325 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,406 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,456 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-环境要闻,存在相同【标题】的文章:三大结构调整再难也得突破 代表委员高度关注打赢蓝天保卫战，聚焦深层次问题
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,456 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,460 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-环境要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,464 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-环境要闻,采集结束,共采集0条...共耗时2492毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,466 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,467 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,486 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,537 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,553 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 商务部-日常新闻,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,554 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-日常新闻,采集结束,共采集0条...共耗时574毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,556 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,557 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-专题新闻发布采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,566 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,599 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,755 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,824 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 商务部-专题新闻发布,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,826 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-专题新闻发布,采集结束,共采集0条...共耗时265毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,827 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,827 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-新闻发言人谈话采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,826 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,850 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,878 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,879 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,901 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 统计局-最新发布,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,902 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-最新发布,采集结束,共采集0条...共耗时986毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,903 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,904 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-数据解读采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,957 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,959 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 商务部-新闻发言人谈话,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,960 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-新闻发言人谈话,采集结束,共采集0条...共耗时132毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:35,961 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,019 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,043 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,191 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,276 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,302 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,344 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,388 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,418 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,462 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,473 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,存在相同【标题】的文章:浙江省政协副主席赴浙江省环保厅走访调研时提出 继续监督支持环保工作
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,613 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,625 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:习近平在参加内蒙古代表团审议时强调
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,660 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,688 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,754 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作,存在相同【标题】的文章:三家基础电信企业将于7月1日实施取消流量“漫游”费
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,755 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,771 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 统计局-数据解读,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,773 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-数据解读,采集结束,共采集0条...共耗时867毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,775 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,786 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,817 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,901 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,存在相同【标题】的文章:河北召开大气污染综合治理工作电视电话会议
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,918 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作,存在相同【标题】的文章:工业和信息化部关于印发《2018年工业节能监察重点工作计划》的通知
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,929 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,938 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作,采集结束,共采集0条...共耗时1058毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,939 [12] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,940 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,938 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:36,956 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 上海期货交易所-公告采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,021 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,021 [13] INFO  WebCrawlerConsole.DoMain.Crawler - 江苏环保厅-省内要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,026 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:小杨，加油
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,060 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,118 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,211 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,216 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,219 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,采集结束,共采集0条...共耗时940毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,221 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,330 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,存在相同【标题】的文章:河北省实施永定河综合治理与生态修复工程
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,332 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,334 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,采集结束,共采集0条...共耗时1865毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,337 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,347 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-聚焦重污染天气采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,460 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,472 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 上海期货交易所-公告,存在相同【标题】的文章:关于配合上海国际能源交易中心开展原油期货上市前全市场生产系统演练的通知
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,511 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,551 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,511 [13] ERROR WebCrawlerConsole.DoMain.Crawler - 【江苏环保厅-省内要闻】采集失败,长度不能小于 0。
+参数名: length
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,554 [12] ERROR WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻,http://www.gov.cn/zhuanti/2018lh/index.htm,中国政府网2018全国两会专题,文章标题h4#artitle获取失败
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,575 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,608 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,636 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,673 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,706 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,734 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,759 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,775 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 广东省环境保护厅-环保要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,783 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,809 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,824 [14] INFO  WebCrawlerConsole.DoMain.Crawler - 上海市环境保护局-环保要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,824 [13] INFO  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,904 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 上海期货交易所-公告,存在相同【标题】的文章:关于2018年度交易员和结算交割员考试计划安排的通知
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,908 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 上海期货交易所-公告,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,911 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 上海期货交易所-公告,采集结束,共采集0条...共耗时954毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,913 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:37,905 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,025 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,060 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻,存在相同【标题】的文章:十三届全国人大一次会议在京开幕
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,064 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,097 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻,采集结束,共采集0条...共耗时1155毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,099 [12] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,099 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,097 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,176 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,225 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:《团圆的味道》
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,400 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,456 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,609 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,633 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 广东省环境保护厅-环保要闻,存在相同【标题】的文章:à?????:éúì????÷?¨éèè?μ??÷??3éD§
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,684 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,723 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,762 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,786 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,820 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,855 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,907 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,942 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,967 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:38,991 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,020 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,084 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,109 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,136 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,162 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,262 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:给予与我建交的最不发达国家特别优惠关税待遇原产地规则及相关操作程序(中文)
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,262 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 上海市环境保护局-环保要闻,存在相同【标题】的文章:2018-02-11市委第二巡视组进驻市环保局开展专项巡视工作
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,276 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 上海市环境保护局-环保要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,278 [14] INFO  WebCrawlerConsole.DoMain.Crawler - 上海市环境保护局-环保要闻,采集结束,共采集0条...共耗时1450毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,279 [14] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,262 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,338 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,363 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,373 [15] INFO  WebCrawlerConsole.DoMain.Crawler - 河南省环境保护厅-环境要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,375 [14] INFO  WebCrawlerConsole.DoMain.Crawler - 湖南省环境保护厅-环境要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,387 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,418 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,456 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开2018年2月例行新闻发布会
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,457 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 广东省环境保护厅-环保要闻,存在相同【标题】的文章:è?1ú?tD-?ˉ?±èèòéíáèà??è?·à??
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,456 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,存在相同【标题】的文章:云南省环境保护厅完成2018年度驻村扶贫工作队员调整交接工作
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,473 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,476 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,采集结束,共采集0条...共耗时1073毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,479 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,457 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,516 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,587 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,631 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,639 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,670 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,698 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,735 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,743 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:给予与我建交的最不发达国家特别优惠关税待遇原产地规则及相关操作程序（英文参考译文）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,759 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,848 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 湖南省环境保护厅-环境要闻,存在相同【标题】的文章:两场发布会 同一必答题
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,849 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 湖南省环境保护厅-环境要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,851 [14] INFO  WebCrawlerConsole.DoMain.Crawler - 湖南省环境保护厅-环境要闻,采集结束,共采集0条...共耗时473毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,853 [14] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,885 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 广东省环境保护厅-环保要闻,存在相同【标题】的文章:é??úò??ê?a3?￡2òú?à?a?·±￡·￡μ￥
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,889 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 广东省环境保护厅-环保要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,891 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 广东省环境保护厅-环保要闻,采集结束,共采集0条...共耗时2112毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,893 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:39,941 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,069 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,070 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站积极开展“环境监测设施开放日”活动
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,070 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:南理工获批示范型国家国际科技合作基地
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,194 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,287 [14] INFO  WebCrawlerConsole.DoMain.Crawler - 镓硒碲分会-行业资讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,287 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 铟铋锗分会-相关行业采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,658 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:《大国重器》（第二季） 第三集：通达天下
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,680 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:中国-新西兰自贸协定文本（中文）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,694 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,912 [16] INFO  WebCrawlerConsole.DoMain.Crawler - 中国环保在线-今日热点采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,932 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,959 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:40,983 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,016 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,038 [15] WARN  WebCrawlerConsole.DoMain.Crawler - 河南省环境保护厅-环境要闻,存在相同【标题】的文章:李克强:绿色发展呈现可喜局面
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,040 [15] WARN  WebCrawlerConsole.DoMain.Crawler - 河南省环境保护厅-环境要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,042 [15] INFO  WebCrawlerConsole.DoMain.Crawler - 河南省环境保护厅-环境要闻,采集结束,共采集0条...共耗时1665毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,043 [15] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,039 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,075 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,098 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,100 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-聚焦重污染天气,存在相同【标题】的文章:环境保护部推选京津冀及周边地区大气污染防治强化督查每周一星（2018年2月26日-3...
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,140 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-聚焦重污染天气,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,142 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-聚焦重污染天气,采集结束,共采集0条...共耗时3787毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,144 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,145 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-通知公告采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,190 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:2017年无线电管理十件大事
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,193 [15] INFO  WebCrawlerConsole.DoMain.Crawler - 中国有色金属报-稀有稀土采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,193 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,209 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:龙刚到省固体废物管理中心调研
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,311 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,342 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:中国-新西兰自贸协定文本（英文）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,352 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,381 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:哈工大教授荣获教育部青年科学奖
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,382 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,411 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,447 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,472 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,535 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:《德国应用化学》在线发表西工大教授的重要研究成果
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,622 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 【长江有色金属网-行业要闻】采集异常,StartIndex 不能小于 0。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,647 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:全省消耗臭氧层物质网络管理系统培训会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,670 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,673 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,采集结束,共采集0条...共耗时2017毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,675 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,657 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,采集结束,共采集0条...共耗时7489毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,683 [5] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,768 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:罗小璋赴省环境保护科学院进行调研
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,814 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:广东通信管理局调研广州通信业和中移铁通广东公司
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,953 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,993 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:中国-巴基斯坦自贸协定文本（中文）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:42,028 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,993 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 镓硒碲分会-行业资讯,存在相同【标题】的文章:光通讯技术大突破，首款LiFi LED照明面板问世
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:41,997 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 铟铋锗分会-相关行业,存在相同【标题】的文章:工信部发文强调严控新上单纯扩大产能的光伏制造项目
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:42,111 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:安徽通信管理局召开2018年全面从严治党工作会议
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:42,167 [17] INFO  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:42,791 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:湖南通信管理局召开党员领导干部民主生活会情况通报会
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:42,824 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:42,826 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,采集结束,共采集0条...共耗时4692毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:42,828 [12] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:42,829 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-领导活动采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:42,845 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 镓硒碲分会-行业资讯,存在相同【标题】的文章:国际研究：InGaN量子井在LED的局限性
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:42,864 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 铟铋锗分会-相关行业,存在相同【标题】的文章:光伏硬科技铸就创新硬实力
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:42,930 [18] INFO  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,122 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开全省环境信访工作视频会议
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,133 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:中国-巴基斯坦自贸协定文本（英文）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,339 [16] WARN  WebCrawlerConsole.DoMain.Crawler - 中国环保在线-今日热点,存在相同【标题】的文章:千亿级别环保企业仍未出现 主要原因之一在这里！
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,341 [16] WARN  WebCrawlerConsole.DoMain.Crawler - 中国环保在线-今日热点,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,342 [16] INFO  WebCrawlerConsole.DoMain.Crawler - 中国环保在线-今日热点,采集结束,共采集0条...共耗时2422毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,344 [16] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,356 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 镓硒碲分会-行业资讯,存在相同【标题】的文章:台工研院：Micro LED将是台湾面板产业逆转日韩...
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,359 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 镓硒碲分会-行业资讯,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,360 [14] INFO  WebCrawlerConsole.DoMain.Crawler - 镓硒碲分会-行业资讯,采集结束,共采集0条...共耗时3070毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,361 [14] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,541 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 铟铋锗分会-相关行业,存在相同【标题】的文章:我国光伏累计装机居世界首位背后：近500亿补贴缺口
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,682 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-领导活动,存在相同【标题】的文章:陈肇雄接受新华社专访 谈网络提速降费将给老百姓带来哪些实惠
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,687 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-领导活动,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,689 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-领导活动,采集结束,共采集0条...共耗时859毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,691 [12] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:43,845 [16] INFO  WebCrawlerConsole.DoMain.Crawler - 电池中国网-行业资讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:44,037 [6] ERROR WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-锡,文章详情div.contentDiv为空
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:44,760 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-通知公告,存在相同【标题】的文章:大气污染防治强化督查人员执法证件信息公示（第二十四轮次）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:44,764 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-通知公告,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:44,766 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-通知公告,采集结束,共采集0条...共耗时3619毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:44,769 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:44,770 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-热点回应采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:44,827 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境信息中心召开2017年度领导班子专题民主生活会
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:44,866 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 铟铋锗分会-相关行业,存在相同【标题】的文章:工信部制造新规：提高光伏门槛 防范新产能过剩
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:44,968 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-07 08:32稀土、化学、有色等33项行标出炉
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:45,295 [14] INFO  WebCrawlerConsole.DoMain.Crawler - 中国电池联盟-闻说采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:45,316 [18] WARN  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,存在相同【标题】的文章:我国锂电储能市场已接近临界点 2018年或快速发展
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:45,335 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 锂电大数据-资讯-原创文章采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:45,439 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 铟铋锗分会-相关行业,存在相同【标题】的文章:FPL在美国佛罗里达州开发4个光伏项目
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:45,731 [18] WARN  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,存在相同【标题】的文章:新能源汽车“换电”潮 动力电池回收利用任重道远
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:45,674 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站张振欣荣获“全国环境保护系统先进工作者”称号
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:45,746 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-06 15:43日本本田公司开发出世界上首块镁电池
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:45,872 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:韩国科学家开发新型水性电池 半分钟内充满电
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,112 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-06 15:39科技部批准建设国家金属矿绿色开采国际联合研究中心
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,112 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 铟铋锗分会-相关行业,存在相同【标题】的文章:光伏业出路在于提高经济性
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,113 [18] WARN  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,存在相同【标题】的文章:人造石墨成动力电池主流负极材料 市场前景广阔
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,123 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-热点回应,存在相同【标题】的文章:专家解读3月4日京津冀沙尘天气影响
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,136 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-热点回应,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,138 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-热点回应,采集结束,共采集0条...共耗时1366毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,140 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,141 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-政策法规解读采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,316 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:罗伟华出席省环境监测中心站领导班子民主生活会
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,341 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,http://www.customs.gov.cn/eportal/ui?pageId=696401&currentPage=1&moduleId=803a199eac704a97a8ea1f0a18cb3a0e,中华人民共和国海关总署公告2005年第37号,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,353 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,http://www.customs.gov.cn/eportal/ui?pageId=696401&currentPage=1&moduleId=803a199eac704a97a8ea1f0a18cb3a0e,中华人民共和国海关总署公告2007年第6号,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,432 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-05 15:24无损打壳锤头助力中铝集团普通电解槽实现3N铝梦
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,459 [19] INFO  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,614 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:中国科学家开发出一种“挑战极寒”锂电池 零下70℃仍可使用
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,621 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 铟铋锗分会-相关行业,存在相同【标题】的文章:国家光伏技术标准创新基地落户英利
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,631 [18] WARN  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,存在相同【标题】的文章:固态电池技术获独特进展 科技业巨头集体投资一小公司
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,888 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-05 14:42紫金铜业化验室通过国际铜精矿检测能力比对测试
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,888 [6] WARN  WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-锡,存在相同【标题】的文章:
+								 欧洲钼铁价格上涨
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,903 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:罗伟华出席省环监局党员领导干部民主生活会
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:46,918 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:国门英雄 第33集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:47,271 [18] WARN  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,存在相同【标题】的文章:蓝闽波委员：推动电动汽车有序充电和车载动力电池梯次利用
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:47,284 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 铟铋锗分会-相关行业,存在相同【标题】的文章:法电与中企合作光伏发电项目
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:47,346 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-05 11:15稀土废料回收项目入选重大项目名单
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:47,591 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-政策法规解读,存在相同【标题】的文章:环境保护部水环境管理司负责人就《船舶水污染物排放控制标准》有关问题答记者问
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:47,722 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:燃料电池产业链研究：谁最有独角兽相？
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:49,413 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:中国-智利自由贸易协定文本（中文）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:49,656 [20] INFO  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-下游动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:49,668 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站召开2017年度工作总结暨表彰大会
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:49,668 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-05 11:11江西省推进稀土新材料产业创新升级
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:51,221 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 锂电大数据-资讯-原创文章,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:51,230 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 锂电大数据-资讯-原创文章,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:51,233 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 锂电大数据-资讯-原创文章,采集结束,共采集0条...共耗时5895毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:51,236 [12] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:51,586 [21] INFO  WebCrawlerConsole.DoMain.Crawler - 动力电池网-资讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:51,605 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:中国动力电池回收市场调研报告
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:51,768 [22] INFO  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:52,098 [23] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:52,708 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-政策法规解读,存在相同【标题】的文章:环境保护部环境影响评价司有关负责人就《关于强化建设项目环境影响评价事中事后...
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:52,717 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-政策法规解读,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:52,721 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-政策法规解读,采集结束,共采集0条...共耗时6577毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:52,725 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:52,883 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-02 14:22西磁磁业2017年盈利1014.15万元
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,120 [18] WARN  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,存在相同【标题】的文章:宝马集团研发新一代电动车固态电池技术
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,166 [12] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,367 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:禁放烟花爆竹 守护蓝天白云
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,373 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 铟铋锗分会-相关行业,存在相同【标题】的文章:经济日报：光伏业出路在于提高经济性
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,377 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 铟铋锗分会-相关行业,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,403 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 铟铋锗分会-相关行业,采集结束,共采集0条...共耗时13110毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,407 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,408 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 中国有色金属工业协会-铟铋锗分会采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,558 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:首款采用NCM811电池的电动汽车上市 中日韩高镍三元进展盘点
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,558 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯,存在相同【标题】的文章:电池质量影响安全和续航 动力电池性能亟待突破
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,698 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:中国-秘鲁自贸协定文本（中文）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,756 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-02 14:07创新提升钒钛资源综合利用水平
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:53,862 [18] WARN  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,存在相同【标题】的文章:合资1.3亿元 成飞集成与德国大陆集团共谋低压电池系统
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:54,528 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯,存在相同【标题】的文章:传统锂电池技术接近瓶颈 电池技术突破指日可待
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:54,529 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-下游动态,存在相同【标题】的文章:韩国汽车2017在华市场份额跌破5%
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:54,536 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,http://www.customs.gov.cn/eportal/ui?pageId=696401&currentPage=1&moduleId=803a199eac704a97a8ea1f0a18cb3a0e,《亚太贸易协定》文本（中文）,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:54,808 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站顺利通过双体系第2次监督审核
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:54,879 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 中联钢-下游采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:54,988 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-02 09:44特朗普宣布对进口钢铝征收重税
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:55,133 [24] INFO  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:55,162 [23] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场,存在相同【标题】的文章:2018年贵州电网将投资80余亿元加大农网改造升级
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:55,222 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯,存在相同【标题】的文章:锂市场供需前景难判 未来可能出现供过于求的局面
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:55,274 [18] WARN  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,存在相同【标题】的文章:凯恩股份：2017年净利同比增长252.33%
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:55,274 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,http://www.customs.gov.cn/eportal/ui?pageId=696401&currentPage=1&moduleId=803a199eac704a97a8ea1f0a18cb3a0e,中国-东盟全面经济合作框架协议货物贸易协议（中文）,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:55,453 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:大众集团将宁德时代纳入全球供应链 为电动汽车提供动力电池
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:55,616 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-01 16:11为钙钛矿电池寻出路，串叠型电池与钛金属是潜在良方
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:55,616 [22] WARN  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,存在相同【标题】的文章:document.write(str);
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:55,631 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-下游动态,存在相同【标题】的文章:七部委明确规定: 新能源汽车电池谁生产谁回收
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:55,650 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 中国有色金属工业协会-铟铋锗分会采集异常,【分页获取失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:55,761 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,http://www.customs.gov.cn/eportal/ui?pageId=696401&currentPage=1&moduleId=803a199eac704a97a8ea1f0a18cb3a0e,中国-新加坡自贸协定文本（中文）,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,252 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:电池巨头宁德时代海外首个工厂即将定址 同时在锂资源方面加大投资
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,252 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-01 16:08生产者责任延伸制能否结束铅蓄电池回收乱象？
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,287 [25] INFO  WebCrawlerConsole.DoMain.Crawler - 兰格钢铁-钢厂调价采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,310 [18] WARN  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,存在相同【标题】的文章:宁德时代欧洲工厂接近定址
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,315 [18] WARN  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,317 [18] INFO  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,采集结束,共采集0条...共耗时13384毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,319 [18] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,475 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:陈小平在2018年全省大气污染防治培训暨工作部署会上强调——早谋划早部署早应对 坚决打赢蓝天保卫战
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,475 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯,存在相同【标题】的文章:镍价格驱动力量将有所转换 大方向依然看涨
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,482 [23] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场,存在相同【标题】的文章:两会丨宁启水：加快特高压建设 重视农网改造升级
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,485 [21] WARN  WebCrawlerConsole.DoMain.Crawler - 动力电池网-资讯,存在相同【标题】的文章:寒锐钴业：钴行业前进需上下游企业共同推动
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,606 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,894 [24] WARN  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态,存在相同【标题】的文章:钢铁业不加快重组无法强大
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,894 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-下游动态,存在相同【标题】的文章:工信部苗圩：我国新能源汽车总量已经超过180万辆
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,897 [22] WARN  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,存在相同【标题】的文章:document.write(str);
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:56,910 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-01 10:402月国内钢铁PMI降至49.5%
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,076 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:中国-智利自由贸易协定文本（英文）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,097 [26] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星电力网-要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,113 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:德拟建400加氢站 现代视其为燃料电池车关键市场
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,113 [16] WARN  WebCrawlerConsole.DoMain.Crawler - 电池中国网-行业资讯,存在相同【标题】的文章:燃料电池车商业化遭遇拦路虎：国外各怀心思 中国有心无力
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,263 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯,存在相同【标题】的文章:动力电池步入全生命周期管理末端
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,405 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:03-01 10:38工信部：加强对铝等有色金属的价格监测
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,412 [23] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场,存在相同【标题】的文章:石玉东：四川特高压电网建设十分紧迫
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,422 [23] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,426 [23] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场,采集结束,共采集0条...共耗时5322毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,468 [23] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,422 [21] WARN  WebCrawlerConsole.DoMain.Crawler - 动力电池网-资讯,存在相同【标题】的文章:日本启动“电波供电革命”计划：实现行走中的电动汽车充电
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,469 [23] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,486 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部对我省环评改革工作开展督导
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,644 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-下游动态,存在相同【标题】的文章:全国新能源汽车超180万辆
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,644 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 中联钢-下游,存在相同【标题】的文章:“来一场中国制造的品质革命” 家电业该如何做？
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,689 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯,存在相同【标题】的文章:2018年锂盐规划新建超25万吨 供应增量能否释放
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,712 [24] WARN  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态,存在相同【标题】的文章:今年将继续破除无效供给 钢铁产能再压减3000万吨
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,752 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,存在相同【标题】的文章:新能源汽车的快速发展将推动铜材需求
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,759 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:评论｜动力电池回收利用迎三重利好
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,764 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-28 16:48北方矿业Browns Range项目获重大进展
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,774 [18] INFO  WebCrawlerConsole.DoMain.Crawler - 中华商务网-硅钢采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:57,774 [27] INFO  WebCrawlerConsole.DoMain.Crawler - 大比特微电机世界网-行业新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:58,330 [22] WARN  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,存在相同【标题】的文章:document.write(str);
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:58,336 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,存在相同【标题】的文章:2018年贵州电网将投资80余亿元加大农网改造升级
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:58,344 [24] WARN  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态,存在相同【标题】的文章:中钢协：2月中旬重点钢企粗钢日均产量179.96万吨
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:58,339 [16] WARN  WebCrawlerConsole.DoMain.Crawler - 电池中国网-行业资讯,存在相同【标题】的文章:基础设施建设待完善 新能源破局与自主品牌向上“方法论”
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:58,357 [16] WARN  WebCrawlerConsole.DoMain.Crawler - 电池中国网-行业资讯,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:58,528 [28] INFO  WebCrawlerConsole.DoMain.Crawler - 中国传动网-新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:58,814 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯,存在相同【标题】的文章:固态电池突破性进展？戴森、三星投资固态电池公司Ionic Materials 
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:58,818 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,存在相同【标题】的文章:3月7日长江有色现货市场行情
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:58,814 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-28 16:45稀土合金泡沫铝项目入选工业强基示范项目
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:58,814 [21] WARN  WebCrawlerConsole.DoMain.Crawler - 动力电池网-资讯,存在相同【标题】的文章:徐和谊：推广和普及新能源车必须优先解决充电难题
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:58,976 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:中国-秘鲁自贸协定文本（英文）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,064 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅启动举办“和蓝天一起过春节”征文比赛活动
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,064 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-下游动态,存在相同【标题】的文章:深圳发布新能源汽车产业扶持计划，最高补助达500万元
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,126 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 中联钢-下游,存在相同【标题】的文章:AI赋能电视业潜藏新同质化危机 内容才是差异化的根本
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,316 [24] WARN  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态,存在相同【标题】的文章:特朗普称将对钢铁和铝产品进口征收关税
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,322 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池联盟-闻说,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,320 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,http://www.customs.gov.cn/eportal/ui?pageId=696401&currentPage=1&moduleId=803a199eac704a97a8ea1f0a18cb3a0e,《亚太贸易协定》文本（英文）,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,322 [24] WARN  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,372 [22] WARN  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,存在相同【标题】的文章:document.write(str);
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,372 [24] INFO  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态,采集结束,共采集0条...共耗时4235毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,468 [24] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,468 [24] INFO  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,316 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,存在相同【标题】的文章:两会访谈丨宁启水：加快特高压建设 重视农网改造升级
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,567 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,存在相同【标题】的文章:Nexa希望在未来24-48小时内解决秘鲁Cajamarquilla锌冶炼厂的罢工问题
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,568 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯,存在相同【标题】的文章:如何解决电动汽车电池包无规律的电池单元老化问题？
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,581 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:锂电储能市场临界点已经接近 2018年将是储能产业快速发展的起始之年
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:44:59,683 [29] INFO  WebCrawlerConsole.DoMain.Crawler - 中国家电网-新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,085 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 中联钢-下游,存在相同【标题】的文章:TCL智能空调向“伪智能“全面宣战
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,086 [23] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场,存在相同【标题】的文章:2018年贵州电网将投资80余亿元加大农网改造升级
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,085 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-28 16:16中铝集团东轻公司两项成果荣获中国有色金属工业科学技术一等奖
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,096 [16] INFO  WebCrawlerConsole.DoMain.Crawler - 电池中国网-行业资讯,采集结束,共采集5条...共耗时16248毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,215 [16] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,217 [16] INFO  WebCrawlerConsole.DoMain.Crawler - 电池中国网-行业数据采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,219 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-下游动态,存在相同【标题】的文章:净利两极分化 新能源客车和乘用车冰火两重天
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,229 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-下游动态,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,104 [21] WARN  WebCrawlerConsole.DoMain.Crawler - 动力电池网-资讯,存在相同【标题】的文章:锂市场供需前景难判 未来可能出现供过于求的局面
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,236 [20] INFO  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-下游动态,采集结束,共采集0条...共耗时10570毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,253 [20] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,254 [20] INFO  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-行业上市公司采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,249 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:《中国环境报》头版头条对江西环保督察整改工作进行宣传报道
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,271 [18] WARN  WebCrawlerConsole.DoMain.Crawler - 中华商务网-硅钢,存在相同【标题】的文章:央行今日进行400亿元人民币7天期逆回购 净回笼200亿
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,301 [22] WARN  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,存在相同【标题】的文章:document.write(str);
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,504 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,530 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯,存在相同【标题】的文章:各国“退役”动力电池梯次利用各有特点
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,530 [9] INFO  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,采集结束,共采集0条...共耗时27067毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,541 [9] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,542 [9] INFO  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,549 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池联盟-闻说,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,551 [28] WARN  WebCrawlerConsole.DoMain.Crawler - 中国传动网-新闻,存在相同【标题】的文章:分享总线时代新思路|一起报名参加雷赛EtherCAT&RTEX总线方案发布会！
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,512 [24] WARN  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态,存在相同【标题】的文章:钢铁业不加快重组无法强大
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,511 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,存在相同【标题】的文章:发改委鼓励钢煤电企业兼并重组 行业有望诞生新巨头
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,536 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,存在相同【标题】的文章:如何使交直流混合微电网足够坚强？
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,931 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-28 16:11宝钛集团一钛合金载人球壳制备技术通过成果评价
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,964 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:锂市场供需前景难判 未来可能出现供过于求的局面
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,971 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,976 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,采集结束,共采集0条...共耗时19020毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,982 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,931 [18] WARN  WebCrawlerConsole.DoMain.Crawler - 中华商务网-硅钢,存在相同【标题】的文章:中钢协：2月上旬重点钢企粗钢日均产量178.47万吨
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,940 [22] WARN  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,存在相同【标题】的文章:document.write(str);
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,071 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池联盟-闻说,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:00,931 [23] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场,存在相同【标题】的文章:两会丨宁启水：加快特高压建设 重视农网改造升级
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,541 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,存在相同【标题】的文章:美国铝业协会：建议为中国等重要贸易伙伴豁免关税
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,541 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯,存在相同【标题】的文章:高镍三元材料趋势化明显
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,556 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,562 [19] INFO  WebCrawlerConsole.DoMain.Crawler - 中国电池网-行业资讯,采集结束,共采集0条...共耗时15097毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,636 [19] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,541 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:中国工程院邱定蕃院士莅临我厅并作专题学术报告-GEF-再生铜UPOPs减排示范项目2017年会召开
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,673 [24] WARN  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态,存在相同【标题】的文章:今年将继续破除无效供给 钢铁产能再压减3000万吨
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,812 [30] INFO  WebCrawlerConsole.DoMain.Crawler - 艾肯家电网-新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,813 [21] WARN  WebCrawlerConsole.DoMain.Crawler - 动力电池网-资讯,存在相同【标题】的文章:锂电池上游材料：钴产品有价无市 锂盐蠢蠢欲动
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,850 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-28 16:07金冠铜业分公司一科技成果获中国有色金属工业科学技术奖一等奖
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,887 [22] WARN  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,存在相同【标题】的文章:document.write(str);
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,984 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,984 [16] WARN  WebCrawlerConsole.DoMain.Crawler - 电池中国网-行业数据,存在相同【标题】的文章:去年光伏组件出口达到37.9GW 出口额或较2016年小幅下跌
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,995 [16] WARN  WebCrawlerConsole.DoMain.Crawler - 电池中国网-行业数据,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:01,997 [16] INFO  WebCrawlerConsole.DoMain.Crawler - 电池中国网-行业数据,采集结束,共采集5条...共耗时1774毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,000 [16] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,001 [16] INFO  WebCrawlerConsole.DoMain.Crawler - 电池中国网-公司新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,029 [28] WARN  WebCrawlerConsole.DoMain.Crawler - 中国传动网-新闻,存在相同【标题】的文章:共迎智造春天，雷赛与您携手2018广州自动化展
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,051 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池联盟-闻说,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,105 [23] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场,存在相同【标题】的文章:石玉东：四川特高压电网建设十分紧迫
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,108 [23] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,110 [23] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场,采集结束,共采集0条...共耗时4637毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,197 [23] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,211 [23] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星电力网-变压器市场采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,174 [19] INFO  WebCrawlerConsole.DoMain.Crawler - 电子产品世界-每日头条采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,223 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-行业上市公司,存在相同【标题】的文章:韩国汽车2017在华市场份额跌破5%
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,112 [24] WARN  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态,存在相同【标题】的文章:中钢协：2月中旬重点钢企粗钢日均产量179.96万吨
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,259 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 中联钢-下游,存在相同【标题】的文章:苏泊尔董事长辞职
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,387 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-28 15:54陕西有色金钼股份强化技术创新培育发展新动能
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,395 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,存在相同【标题】的文章:“铜博士”呼吁中国削减产能
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,388 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,存在相同【标题】的文章:储能电池研究最新集锦
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,496 [22] WARN  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,存在相同【标题】的文章:document.write(str);
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,503 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部宣教中心主任贾峰到庐山西海考察环保科普教育基地项目
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,503 [21] WARN  WebCrawlerConsole.DoMain.Crawler - 动力电池网-资讯,存在相同【标题】的文章:合资1.2亿元 天赐材料与日企共同成立锂盐公司
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,725 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池联盟-闻说,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:02,827 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,存在相同【标题】的文章:海关总署第236号令（关于公布《中华人民共和国海关预裁定管理暂行办法》的令）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:03,714 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-28 10:43美国最终裁定中国铝箔生产商获得不公平补贴
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:03,796 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-行业上市公司,存在相同【标题】的文章:七部委明确规定: 新能源汽车电池谁生产谁回收
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:03,797 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,存在相同【标题】的文章:全球都盯着美国贸易战时，欧盟对中国悄悄出手了
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:03,931 [29] WARN  WebCrawlerConsole.DoMain.Crawler - 中国家电网-新闻,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:03,954 [18] WARN  WebCrawlerConsole.DoMain.Crawler - 中华商务网-硅钢,存在相同【标题】的文章:特朗普称将对钢铁和铝产品进口征收关税
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:03,932 [22] WARN  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,存在相同【标题】的文章:document.write(str);
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,012 [31] INFO  WebCrawlerConsole.DoMain.Crawler - 中国质量新闻网-要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,066 [21] WARN  WebCrawlerConsole.DoMain.Crawler - 动力电池网-资讯,存在相同【标题】的文章:北京：新能源公交车占比达到全部公交车60%以上
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,066 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池联盟-闻说,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,101 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 中联钢-下游,存在相同【标题】的文章:TCL发布可视觉识别人的电视
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,188 [28] WARN  WebCrawlerConsole.DoMain.Crawler - 中国传动网-新闻,存在相同【标题】的文章:2018 Vision China | 康耐视让你与新品零距离接触
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,187 [16] WARN  WebCrawlerConsole.DoMain.Crawler - 电池中国网-公司新闻,存在相同【标题】的文章:力信能源去年销售额近10亿元 力争今年动力电池产能达8GWH
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,101 [24] WARN  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态,存在相同【标题】的文章:特朗普称将对钢铁和铝产品进口征收关税
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,224 [24] WARN  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,228 [24] INFO  WebCrawlerConsole.DoMain.Crawler - 东方钢铁-市场动态,采集结束,共采集0条...共耗时4756毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,232 [24] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,230 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:邹成俊赴南康区横市镇大陂村督查指导精准扶贫工作
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,330 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-27 13:07稀土交易平台成为稀交所创新发展新动能
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,530 [23] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星电力网-变压器市场采集异常,【分页获取失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,541 [22] WARN  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,存在相同【标题】的文章:document.write(str);
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,578 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,存在相同【标题】的文章:2018全国两会 关于能源、电力行业的两会声音有哪些？
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,641 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池联盟-闻说,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,543 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,存在相同【标题】的文章:寒锐钴业：在逐步放大钴资源的储备和经营
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,560 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-行业上市公司,存在相同【标题】的文章:工信部苗圩：我国新能源汽车总量已经超过180万辆
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,557 [32] INFO  WebCrawlerConsole.DoMain.Crawler - 盖世汽车-新能源采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,654 [30] WARN  WebCrawlerConsole.DoMain.Crawler - 艾肯家电网-新闻,存在相同【标题】的文章:洗碗机什么牌子好?究竟哪款适合三口之家?
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,853 [21] WARN  WebCrawlerConsole.DoMain.Crawler - 动力电池网-资讯,存在相同【标题】的文章:大众集团将宁德时代纳入全球供应链 为电动汽车供应动力电池
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,861 [21] WARN  WebCrawlerConsole.DoMain.Crawler - 动力电池网-资讯,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,882 [21] INFO  WebCrawlerConsole.DoMain.Crawler - 动力电池网-资讯,采集结束,共采集0条...共耗时13291毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,886 [21] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:04,976 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,存在相同【标题】的文章:海关总署第235号令（关于公布《海关总署关于修改部分规章的决定》的令）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,059 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 中联钢-下游,存在相同【标题】的文章:海尔携手软银机器人强势入局服务机器人领域
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,065 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 中联钢-下游,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,183 [23] INFO  WebCrawlerConsole.DoMain.Crawler - 第一电动网-资讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,187 [24] INFO  WebCrawlerConsole.DoMain.Crawler - 中国客车网-新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,450 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 中联钢-下游,采集结束,共采集1条...共耗时10563毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,457 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,492 [21] INFO  WebCrawlerConsole.DoMain.Crawler - 高工电动车-资讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,657 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-行业上市公司,存在相同【标题】的文章:全国新能源汽车超180万辆
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,657 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,存在相同【标题】的文章:中国科学家开发出一种“挑战极寒”锂电池 零下70℃仍可使用
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,657 [18] WARN  WebCrawlerConsole.DoMain.Crawler - 中华商务网-硅钢,存在相同【标题】的文章:“金三银四”临近 钢铁行业分歧加大
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,657 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,存在相同【标题】的文章:新能源汽车产业发展需构建综合政策体系
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,668 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅下发通知要求扎实做好当前环境信访稳定工作
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,675 [22] WARN  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,存在相同【标题】的文章:document.write(str);
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,760 [22] WARN  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,763 [22] INFO  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,采集结束,共采集0条...共耗时13989毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,767 [22] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,691 [30] WARN  WebCrawlerConsole.DoMain.Crawler - 艾肯家电网-新闻,存在相同【标题】的文章:张近东写下温暖家书为奉献“快递春运”的这群人点赞
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,752 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 电子产品世界-每日头条,存在相同【标题】的文章:OLED市场萎缩 三星正处于艰难时期
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,675 [31] WARN  WebCrawlerConsole.DoMain.Crawler - 中国质量新闻网-要闻,存在相同【标题】的文章:天津发布餐饮行业首个团体标准
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:05,959 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,存在相同【标题】的文章:海关总署第234号令（关于公布《海关总署关于废止<中华人民共和国海关关于异地加工...
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,495 [16] WARN  WebCrawlerConsole.DoMain.Crawler - 电池中国网-公司新闻,存在相同【标题】的文章:大众集团将宁德时代纳入全球供应链 为电动汽车提供动力电池
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,508 [16] WARN  WebCrawlerConsole.DoMain.Crawler - 电池中国网-公司新闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,513 [16] INFO  WebCrawlerConsole.DoMain.Crawler - 电池中国网-公司新闻,采集结束,共采集5条...共耗时4497毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,518 [16] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,573 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-27 13:02C919铝合金轮毂、旅客观察窗精密模锻件研制取得突破
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,681 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,684 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,687 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,689 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,692 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,695 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,697 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,700 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,702 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-行业上市公司,存在相同【标题】的文章:深圳发布新能源汽车产业扶持计划，最高补助达500万元
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,691 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,存在相同【标题】的文章:“两会”国网事件点评：能源革命催生柔性直流输电网
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,702 [29] WARN  WebCrawlerConsole.DoMain.Crawler - 中国家电网-新闻,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,823 [30] WARN  WebCrawlerConsole.DoMain.Crawler - 艾肯家电网-新闻,存在相同【标题】的文章:“冷冰”市场吹来暖风
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,703 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,960 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,962 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,964 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,966 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,968 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,970 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,972 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,974 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,976 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,979 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,981 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,983 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,721 [28] WARN  WebCrawlerConsole.DoMain.Crawler - 中国传动网-新闻,存在相同【标题】的文章:工业互联网助力先进制造,将进入快速建设和发展期
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,985 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,997 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,999 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,001 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,003 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,005 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,007 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,008 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:06,773 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,存在相同【标题】的文章:2018政府工作报告有关去产能、供给侧改革、大气污染防控的内容
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,010 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,016 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,018 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,020 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,022 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,023 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,025 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,027 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,029 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,031 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,033 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,035 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,037 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,039 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,041 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,044 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,046 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,048 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,076 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,078 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,029 [31] WARN  WebCrawlerConsole.DoMain.Crawler - 中国质量新闻网-要闻,存在相同【标题】的文章:福建福州旅游业建信用“红黑名单”
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,080 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,083 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,085 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,086 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,088 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,090 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,092 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,094 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,095 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,097 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创采集异常,【新闻列表时间加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,081 [31] WARN  WebCrawlerConsole.DoMain.Crawler - 中国质量新闻网-要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,101 [31] INFO  WebCrawlerConsole.DoMain.Crawler - 中国质量新闻网-要闻,采集结束,共采集0条...共耗时3065毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,103 [31] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,076 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 电子产品世界-每日头条,存在相同【标题】的文章:三大运营商：坚决贯彻落实国家提速降费政策
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,357 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-26 16:40定南县部署完成废弃稀土矿山治理工作
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,522 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:江西圆满完成“大气十条”空气质量改善任务目标
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,601 [18] WARN  WebCrawlerConsole.DoMain.Crawler - 中华商务网-硅钢,存在相同【标题】的文章:2月财新中国制造业PMI微升至51.6
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,610 [18] WARN  WebCrawlerConsole.DoMain.Crawler - 中华商务网-硅钢,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,616 [18] INFO  WebCrawlerConsole.DoMain.Crawler - 中华商务网-硅钢,采集结束,共采集0条...共耗时9835毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,621 [18] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,623 [18] INFO  WebCrawlerConsole.DoMain.Crawler - 中华商务网采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:07,905 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池联盟-闻说,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,146 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,存在相同【标题】的文章:海关总署第233号令（关于公布《中华人民共和国海关暂时进出境货物管理办法》的令）
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,317 [30] WARN  WebCrawlerConsole.DoMain.Crawler - 艾肯家电网-新闻,存在相同【标题】的文章:产品+渠道+服务：苏宁华为启动2018年百亿计划
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,521 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-行业上市公司,存在相同【标题】的文章:净利两极分化 新能源客车和乘用车冰火两重天
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,529 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-行业上市公司,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,537 [20] INFO  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-行业上市公司,采集结束,共采集0条...共耗时8278毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,546 [20] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,548 [20] INFO  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-行业资讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,637 [25] WARN  WebCrawlerConsole.DoMain.Crawler - 兰格钢铁-钢厂调价,存在相同【标题】的文章:3月6日河北敬业中厚板锁价政策
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,637 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-26 16:26“4500m深潜器用TC4ELI钛合金载人球壳制备技术”项目通过成果评价
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,814 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,存在相同【标题】的文章:山东黄金年报净利下降12% 证金增持至4.9%
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,917 [33] INFO  WebCrawlerConsole.DoMain.Crawler - OFweek-产业新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,955 [22] INFO  WebCrawlerConsole.DoMain.Crawler - 中国电动汽车网-资讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:08,838 [7] INFO  WebCrawlerConsole.DoMain.Crawler - CNEV-行业采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:09,317 [16] INFO  WebCrawlerConsole.DoMain.Crawler - 电动汽车资源网-资讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:09,408 [26] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星电力网-要闻,存在相同【标题】的文章:新时代的能源工作怎么看？怎么办？怎么干？人大代表委员来解答
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:09,450 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省赣州中学成功创建国际生态学校
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:09,531 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池联盟-闻说,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:10,116 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-26 16:18攀钢钒钛成功开发焊接材料用钛系新材料
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:10,124 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,存在相同【标题】的文章:刘满平：一般工商业电价平均降低10%可采取四大措施
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:10,145 [30] WARN  WebCrawlerConsole.DoMain.Crawler - 艾肯家电网-新闻,存在相同【标题】的文章:国美数码年货闹新春把“乐”带回家
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:10,116 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,存在相同【标题】的文章:行业组织：2018年俄罗斯黄金产量料增3%
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:10,978 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:10,982 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 长江有色金属网-行业要闻,采集结束,共采集0条...共耗时14369毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:10,985 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:10,978 [27] WARN  WebCrawlerConsole.DoMain.Crawler - 大比特微电机世界网-行业新闻,存在相同【标题】的文章:轮毂电机已到产业化前夜？
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:10,992 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-26 16:13“西南铝造”全铝车身轻量化客车成功组装
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:11,126 [32] WARN  WebCrawlerConsole.DoMain.Crawler - 盖世汽车-新能源,存在相同【标题】的文章:美国能源部拨款1200万美元 支持研发天然气发动机
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:11,143 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,存在相同【标题】的文章:南网总经理曹志安：一般工商业电价平均降低10%利好实体经济
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:11,294 [29] WARN  WebCrawlerConsole.DoMain.Crawler - 中国家电网-新闻,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:11,330 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,存在相同【标题】的文章:海关总署第232号令
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:11,426 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 与非网-与非原创,采集结束,共采集1条...共耗时9438毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:11,432 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:11,378 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池联盟-闻说,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:11,294 [30] WARN  WebCrawlerConsole.DoMain.Crawler - 艾肯家电网-新闻,存在相同【标题】的文章:国美拯救你的年夜饭 《十二国美味》神器过新年
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:11,131 [28] WARN  WebCrawlerConsole.DoMain.Crawler - 中国传动网-新闻,存在相同【标题】的文章:传统锂电池技术接近瓶颈 电池技术突破指日可待
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:11,495 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅出台支持赣江新区加快发展实施细则
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:11,716 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 电子产品世界-每日头条,存在相同【标题】的文章:HomePod能烧热国内智能语音市场吗
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:13,081 [18] WARN  WebCrawlerConsole.DoMain.Crawler - 中华商务网,存在相同【标题】的文章:央行今日进行400亿元人民币7天期逆回购 净回笼200亿
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:13,081 [26] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星电力网-要闻,存在相同【标题】的文章:“一带一路”沿线国家电力运行动态
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:13,084 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 电动邦-资讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:13,092 [27] WARN  WebCrawlerConsole.DoMain.Crawler - 大比特微电机世界网-行业新闻,存在相同【标题】的文章:关于“零传动”直线电机 你知道这七点？
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:13,085 [20] WARN  WebCrawlerConsole.DoMain.Crawler - 中国化学与物理电源行业协会-资讯-行业资讯,存在相同【标题】的文章:韩国汽车2017在华市场份额跌破5%
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:13,338 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-26 11:31特朗普考虑实施进口关税之际 中国铝出口或将继续增加
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:15,437 [34] INFO  WebCrawlerConsole.DoMain.Crawler - 国家电网-公告采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:15,532 [28] INFO  WebCrawlerConsole.DoMain.Crawler - 中国传动网-新闻,采集结束,共采集1条...共耗时16878毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:15,437 [31] INFO  WebCrawlerConsole.DoMain.Crawler - 电车之家采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:15,531 [30] WARN  WebCrawlerConsole.DoMain.Crawler - 艾肯家电网-新闻,存在相同【标题】的文章:格兰仕总裁向全球消费者拜年
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:15,540 [28] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:15,976 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 中国电池联盟-闻说,存在相同【标题】的文章:
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:16,388 [32] WARN  WebCrawlerConsole.DoMain.Crawler - 盖世汽车-新能源,存在相同【标题】的文章:奥迪Pop.Up Next飞行车亮相日内瓦车展
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:16,388 [17] WARN  WebCrawlerConsole.DoMain.Crawler - 中国金属网-综合信息,存在相同【标题】的文章:02-26 11:28中国1月金属废料进口同比大降25%至近两年低点
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:16,400 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 电子产品世界-每日头条,存在相同【标题】的文章:曝魅族2018路线图：高端用高通三星芯片 一年最多5款产品
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:16,410 [19] WARN  WebCrawlerConsole.DoMain.Crawler - 电子产品世界-每日头条,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-03-07 13:45:16,388 [12] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,存在相同【标题】的文章:全国工商联：建议动力电池增值税率降至11%
+ WebCrawlerConsole.DoMain.Crawlername

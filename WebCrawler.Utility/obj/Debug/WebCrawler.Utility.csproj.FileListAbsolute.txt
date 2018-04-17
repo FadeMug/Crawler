@@ -1,0 +1,15 @@
+D:\project\datacollection\WebCrawler.Utility\bin\Debug\WebCrawler.Utility.dll
+D:\project\datacollection\WebCrawler.Utility\bin\Debug\WebCrawler.Utility.pdb
+D:\project\datacollection\WebCrawler.Utility\bin\Debug\Newtonsoft.Json.dll
+D:\project\datacollection\WebCrawler.Utility\bin\Debug\Newtonsoft.Json.xml
+D:\project\datacollection\WebCrawler.Utility\obj\Debug\WebCrawler.Utility.csproj.CoreCompileInputs.cache
+D:\project\datacollection\WebCrawler.Utility\obj\Debug\WebCrawler.Utility.dll
+D:\project\datacollection\WebCrawler.Utility\obj\Debug\WebCrawler.Utility.pdb
+D:\project\datacollection\WebCrawler.Utility\obj\Debug\WebCrawler.Utility.csprojResolveAssemblyReference.cache
+D:\project\WebCrawler\WebCrawler.Utility\bin\Debug\WebCrawler.Utility.dll
+D:\project\WebCrawler\WebCrawler.Utility\bin\Debug\WebCrawler.Utility.pdb
+D:\project\WebCrawler\WebCrawler.Utility\bin\Debug\Newtonsoft.Json.dll
+D:\project\WebCrawler\WebCrawler.Utility\bin\Debug\Newtonsoft.Json.xml
+D:\project\WebCrawler\WebCrawler.Utility\obj\Debug\WebCrawler.Utility.csproj.CoreCompileInputs.cache
+D:\project\WebCrawler\WebCrawler.Utility\obj\Debug\WebCrawler.Utility.dll
+D:\project\WebCrawler\WebCrawler.Utility\obj\Debug\WebCrawler.Utility.pdb

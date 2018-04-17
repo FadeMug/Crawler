@@ -1,0 +1,144 @@
+2017-12-20 14:31:07,890 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 14:31:09,189 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-20 14:31:42,225 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 14:31:43,329 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-20 14:32:05,236 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 14:37:15,710 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 14:38:10,239 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 14:38:11,347 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 14:38:14,278 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,http://www.csg.cn/xwzx/2017/gsyw/,document.write(str);,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 14:38:25,745 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,http://www.csg.cn/xwzx/2017/gsyw/index_5.html,document.write(str);,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 14:39:13,198 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 南方电网-公司要闻,采集结束,共采集498条...共耗时61850毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 14:39:13,200 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 14:39:13,262 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-20 15:14:51,243 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 15:14:52,566 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:14:53,918 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场,采集结束,共采集0条...共耗时1349毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:14:53,919 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:14:53,920 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:14:54,132 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场,采集结束,共采集0条...共耗时210毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:14:54,133 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:14:54,235 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-20 15:16:07,496 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 15:16:09,208 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:16:53,463 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 15:16:57,613 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:16:58,959 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场,采集结束,共采集0条...共耗时1344毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:16:58,961 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:16:58,962 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:16:59,201 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场,采集结束,共采集0条...共耗时237毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:16:59,205 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:16:59,307 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-20 15:17:12,716 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 15:17:13,740 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:19:29,177 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:19:30,821 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:19:42,655 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 15:19:43,626 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 15:20:26,356 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:18:39,509 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 17:18:40,540 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:19:37,535 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场,存在相同【标题】的文章:“电网升级”势在必行 智能电网建设如火如荼
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:20:44,159 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场,存在相同【标题】的文章:河北省农村电网改造升级工程首批投资计划15亿元
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:20:47,130 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场,存在相同【标题】的文章:甘肃首台变压器直流偏磁隔离装置投入运行
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:21:51,403 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:21:51,455 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国内市场,采集结束,共采集838条...共耗时190913毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:21:51,457 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:21:51,458 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:22:42,040 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场,存在相同【标题】的文章:“电网升级”势在必行 智能电网建设如火如荼
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:23:44,277 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场,存在相同【标题】的文章:河北省农村电网改造升级工程首批投资计划15亿元
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:23:47,534 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场,存在相同【标题】的文章:甘肃首台变压器直流偏磁隔离装置投入运行
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:24:51,908 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:24:51,966 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 变压器市场-国外市场,采集结束,共采集1676条...共耗时180507毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:24:51,969 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:24:52,038 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-20 17:34:57,137 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 17:34:57,895 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:34:59,383 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868952.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:34:59,540 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868948.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:34:59,639 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868943.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:34:59,759 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868937.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:34:59,892 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868934.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:00,017 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868927.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:00,197 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868923.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:00,298 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868912.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:00,401 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868903.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:00,493 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868888.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:00,585 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868868.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:00,685 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868862.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:00,784 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868856.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:00,909 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868850.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:01,011 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868843.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:01,132 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868830.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:01,234 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868817.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:01,335 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868809.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:01,429 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868783.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:01,537 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868771.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:01,959 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868766.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:02,153 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171220/868761.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:02,285 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868730.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:02,430 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868720.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:02,533 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868679.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:02,638 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868674.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:02,737 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868645.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:02,857 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868639.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:02,949 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868629.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:03,050 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868616.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:03,168 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868607.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:03,269 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868605.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:03,365 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868602.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:03,436 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868597.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:03,501 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868584.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:03,633 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868572.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:03,730 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868570.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:03,850 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868566.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:03,937 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/news/20171219/868559.shtml,文章详情div_ArtText为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:35:36,095 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 17:35:37,214 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:36:04,337 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,存在相同【标题】的文章:人事变动｜南方电网副总王良友调任三峡集团副总经理 预测未来还有人事调整
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:38:36,277 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-20 17:38:37,510 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:18,659 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,存在相同【标题】的文章:人事变动｜南方电网副总王良友调任三峡集团副总经理 预测未来还有人事调整
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,363 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,欧/美/日/韩对氢燃料电池的战略布局（上）,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,397 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,比亚迪明年全部换装三元电池！磷酸铁锂怎么办？,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,432 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,哥伦比亚电力行业情况及SWOT分析,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,467 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,湖北省2000亿重大能源保障建设工程：分布式能源是重要一环,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,501 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,能源行业信用体系建设三箭齐发 确保能源行业市场运行更加规范有序,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,535 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,加急！国家能源局公布《能源行业市场主体信用行为清单（2018版）》,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,571 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,为什么 传统保护装置正在逐渐被替代？,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,606 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,【干货】增量配电试点申报常见问题16问,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,641 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,中国投千亿元发展充电桩 远超很多发达国家的市场总量,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,676 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,四川国网达州供电公司220千伏团坝变电站成功投运,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,712 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,一文带你了解特高压输电有什么好处？,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,747 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,丰田计划建造世界首座兆瓦级碳酸盐燃料电池发电厂,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,783 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,全球能源互联网：从构想到实践 进入快速发展新阶段,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,817 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,“临沂一站一线”特高压工程建成投运,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,853 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,国网甘肃2017年第六次物资中标候选人公示,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,887 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,国网甘肃甘肃对供应商不良行为的处理决定,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,922 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,通用如何规划在华电气化战略？建17.2亿电池工厂 推出10款新能源车型,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,957 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,【深度报告】充电设备企业之生存法则探讨,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:35,992 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,四川首套港口岸电系统建成投运 每年可替代电量约20万千瓦时,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:36,029 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,锂电设备企业扎堆资本市场 竞争格局或产生巨大变量,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:36,063 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,国网新一代调相机科技攻关取得全面突破 开发出全球领先的“发电机”！,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:36,102 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,世界海拔最高、中国目前最大商用储能电站顺利并网！,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:36,141 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,“恒功率”石破天惊 国网新标准下的充电模块之争,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:36,175 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,青海“十三五”贫困地区电网规划编制完成 计划投资21亿元,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:36,214 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,六大关键词还原2017新三板锂电企业生存状态,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:36,252 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,浙江：建立以现货市场为主体的省级电力市场体系 积极扩大电力直接交易,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:36,290 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,50亿起步！2017年十大锂电池投资项目盘点！,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:36,326 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,辽宁锦州供电公司大力推广配电网工厂化建设,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:36,360 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,2017年中国城乡年户均停电时间、城乡供电可靠率及配电网投资情况分析,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:36,395 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,何勇健：推进能源与信息化工作深度融合,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:39:36,477 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,环保部公示云南金沙江中游电站送电广西直流输电工程变动情况,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:40:37,372 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,环保部对陕北-湖北±800千伏特高压直流输电工程进行环评验收,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:40:58,407 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,发改委：《区域电网输电价格定价办法（试行）》《跨省跨区专项工程输电价格定价办法（试行）》征求意见,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:41:19,429 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,国网湖南供应商不良行为处理情况（2017年12月）,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:41:40,448 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,国网2017年第二次电能表及用电信息采集设备中标解析,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:42:01,474 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,国家电网供应商不良行为处理细则新版实施（附具体处理措施）,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:42:22,491 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,氢能与燃料电池汽车产业发展的四大建议,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:42:43,512 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,新电改提速 首家省级电网企业成立,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:43:04,840 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,储能电池市场：未来十年新蓝海,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:43:25,924 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,从我国电源与电网建设看电力市场体制机制,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:43:46,961 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,3500万片智能电表 “南网芯”进入南方五省区,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-20 17:44:07,990 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星输配电网-要闻,http://shupeidian.bjx.com.cn/NewsList?page=5,电动汽车：“锂电派”的“气剑之争”,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername

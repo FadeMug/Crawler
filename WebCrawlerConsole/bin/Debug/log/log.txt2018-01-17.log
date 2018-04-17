@@ -1,0 +1,27 @@
+2018-01-17 10:19:07,526 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2018-01-17 10:19:10,582 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 有色金属网-锡采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:10,582 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:10,582 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-环境要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:10,805 [6] INFO  WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-锡采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:10,875 [9] INFO  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:11,900 [6] WARN  WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-锡,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:11,901 [6] INFO  WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-锡,采集结束,共采集0条...共耗时1093毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:11,902 [6] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:11,902 [6] INFO  WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-铟采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,000 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,001 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评,采集结束,共采集0条...共耗时1415毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,002 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,166 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-日常新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,257 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-最新发布采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,427 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 商务部-日常新闻,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,428 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-日常新闻,采集结束,共采集0条...共耗时260毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,430 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,431 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-专题新闻发布采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,563 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 商务部-专题新闻发布,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,566 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-专题新闻发布,采集结束,共采集0条...共耗时132毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,569 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,570 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-新闻发言人谈话采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,689 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 商务部-新闻发言人谈话,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,723 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-新闻发言人谈话,采集结束,共采集0条...共耗时151毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2018-01-17 10:19:12,725 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername

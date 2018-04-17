@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FryModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="FryEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Fry_Tag" EntityType="FryModel.Fry_Tag" />
+    <EntitySet Name="Fry_Article" EntityType="FryModel.Fry_Article" />
+  </EntityContainer>
+  <EntityType Name="Fry_Tag">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TagName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TagMark" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TagType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Fry_Article">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TagId" Type="Int32" />
+    <Property Name="Tag" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Source" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Title" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Abstract" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="BaiduUrl" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="RealUrl" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="Domain" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="IsVerify" Type="Byte" />
+    <Property Name="PageContext" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Author" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="PulDate" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Title_" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Type_" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ReleaseDate" Type="DateTime" Precision="3" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+  </EntityType>
+</Schema>

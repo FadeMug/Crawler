@@ -1,0 +1,818 @@
+2017-11-24 08:51:58,212 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 08:52:04,867 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 08:52:14,929 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,长度不能小于 0。
+参数名: length
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 08:52:39,563 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 08:52:47,483 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 08:53:23,027 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 08:53:25,742 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 08:57:19,578 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 08:57:27,003 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 08:58:10,170 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 08:58:18,051 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:05:53,184 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:05:55,385 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:06:19,726 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:06:21,938 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:14:48,414 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:14:49,216 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:19:10,771 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:19:12,852 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:24:09,788 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:24:25,971 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:24:28,814 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:24:30,414 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,长度不能小于 0。
+参数名: length
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:24:30,416 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 09:24:42,065 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:24:45,239 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:26:09,482 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:26:11,961 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:27:15,054 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:27:17,122 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:54:24,401 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,长度不能小于 0。
+参数名: length
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:54:24,403 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 09:54:44,168 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:54:45,567 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:54:46,696 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,长度不能小于 0。
+参数名: length
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:54:46,699 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 09:55:29,646 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:55:31,443 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:55:32,932 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,长度不能小于 0。
+参数名: length
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:55:32,933 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 09:55:57,437 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:55:58,929 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:56:54,227 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:56:54,497 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:56:54,499 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 09:57:33,210 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:57:34,934 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:58:23,307 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:58:23,621 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 09:58:23,624 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 09:58:49,791 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 09:58:51,379 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:00:08,480 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:00:09,856 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:00:09,858 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 10:00:28,421 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 10:00:29,697 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:01:09,221 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:01:09,423 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:01:09,426 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 10:01:23,435 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 10:01:24,345 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:01:42,729 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:01:43,877 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:01:43,879 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 10:02:50,154 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 10:02:51,137 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:04:00,586 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:04:07,001 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:04:07,003 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 10:04:37,688 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 10:04:39,266 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:05:09,208 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:05:11,530 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:05:11,532 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 10:05:48,706 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 10:05:49,699 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:06:07,185 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:06:07,912 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 【浙江省环境保护厅-环保新闻】采集失败,索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:06:07,915 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 10:06:22,513 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 10:06:23,880 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:06:31,806 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:07:33,706 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 10:07:35,200 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:07:51,033 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:08:30,664 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 10:08:32,043 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:08:45,261 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:09:05,303 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 10:09:06,393 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:09:23,724 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:30:19,932 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:财经观察：中国将继续发挥全球经济“稳定器”作用——国际机构看好中国...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:31:01,205 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 10:31:02,325 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:31:12,867 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:浙江出台实施意见确定生态保护红线的时间表施工图 红线意识要成为全社...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:31:15,652 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:31:15,857 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:财经观察：中国将继续发挥全球经济“稳定器”作用——国际机构看好中国...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:31:15,979 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:国际机构纷纷上调我国经济增速预期 彰显经济发展底气
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:31:25,110 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集异常,【新闻列表加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:31:25,173 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集异常,【新闻列表加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:31:25,234 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集异常,【新闻列表加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:31:25,297 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集异常,【新闻列表加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:31:25,299 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,采集结束,共采集55条...共耗时22967毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:31:25,301 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 10:31:25,348 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-11-24 15:27:15,424 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-24 15:27:17,219 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-环境要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:17,219 [6] INFO  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:17,219 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 有色金属网-锡采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:17,465 [9] INFO  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,569 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-环境要闻,存在相同【标题】的文章:环保部通报近期重点工作和规划财务工作情况
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,571 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-环境要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,573 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-环境要闻,采集结束,共采集0条...共耗时8349毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,575 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,576 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,589 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-日常新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,625 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-最新发布采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,797 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 商务部-日常新闻,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,798 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-日常新闻,采集结束,共采集0条...共耗时204毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,801 [11] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,803 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-专题新闻发布采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,834 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:通关一体化全覆盖 宁波海关压缩进口货物通关时间43%
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,893 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 商务部-专题新闻发布,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,895 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-专题新闻发布,采集结束,共采集0条...共耗时90毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,898 [11] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,900 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-新闻发言人谈话采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,976 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 商务部-新闻发言人谈话,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,979 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 商务部-新闻发言人谈话,采集结束,共采集0条...共耗时76毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:25,982 [11] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,089 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:杭州海关全力推进通关一体化改革
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,148 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 有色金属网-锡,文章详情P元素采集失败,ID:100767895
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,150 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 有色金属网-锡,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,250 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,278 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 统计局-最新发布,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,280 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-最新发布,采集结束,共采集0条...共耗时644毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,282 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,281 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 有色金属网-锡,采集结束,共采集1条...共耗时9047毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,284 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-数据解读采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,285 [5] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,360 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:海口海关：“飞”速通关
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,366 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,469 [6] WARN  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,534 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-锡采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,608 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:“世界梦号”首航南沙 海关优质服务助力圆“梦”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,729 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 统计局-数据解读,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,731 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 统计局-数据解读,采集结束,共采集0条...共耗时442毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,733 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,804 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 上海期货交易所-公告采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,851 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:郑州海关举办“海关热线进现场”活动（图）
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,948 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 上海期货交易所-公告,存在相同【标题】的文章:关于对周×采取限制开仓监管措施的公告
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:26,987 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 上海期货交易所-公告,存在相同【标题】的文章:关于对××有限公司采取限制开仓监管措施的公告
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,037 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 上海期货交易所-公告,存在相同【标题】的文章:关于对程××采取限制开仓监管措施的公告
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,041 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 上海期货交易所-公告,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,044 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 上海期货交易所-公告,采集结束,共采集0条...共耗时237毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,047 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,053 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,056 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,采集结束,共采集0条...共耗时685毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,059 [5] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,110 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 江苏环保厅-省内要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,112 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:倪岳峰到合肥海关调研（图）
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,120 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 上海市环境保护局-环保要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,138 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作,存在相同【标题】的文章:中华人民共和国工业和信息化部公告2017年第51号
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,177 [13] INFO  WebCrawlerConsole.DoMain.Crawler - 广东省环境保护厅-环保要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,243 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作,存在相同【标题】的文章:中华人民共和国工业和信息化部公告2017年第49号
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,253 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,257 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-重点工作,采集结束,共采集0条...共耗时1003毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,261 [11] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,263 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,493 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 上海市环境保护局-环保要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,503 [6] WARN  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,504 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:Summary of Imports and Exports (In USD)
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,583 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 上海市环境保护局-环保要闻,采集结束,共采集2条...共耗时459毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,585 [5] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:27,583 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻,存在相同【标题】的文章:马凯调研中国制造2025国家级示范区创建
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,209 [6] WARN  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,238 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,331 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,存在相同【标题】的文章:云南省部分城市空气质量预测预报及会商培训班成功举办
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,336 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:Summary of Imports and Exports (In RMB)
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,348 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻,存在相同【标题】的文章:国务院办公厅印发《关于创建“中国制造2025”国家级示范区的通知》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,352 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,354 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-时政要闻,采集结束,共采集0条...共耗时3089毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,357 [11] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,359 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,593 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:广州海关“一站式”通关擦亮“番禺珠宝”金字招牌
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,836 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:从打捞到出口不超过24小时 海关即到即验加速鲜活货物出口
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,859 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:C919大型客机转场阎良后首飞  试飞工作全面开展
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,918 [14] INFO  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:30,927 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:“汽车轻量化新材料展览”在广州举办
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,059 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:雪域丹心
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,131 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:东盟+中日韩（10+3）中小企业服务机构创新合作研讨会在深圳举办
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,261 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,存在相同【标题】的文章:云南约谈查处违法案件不力环保局 未完成年度工作目标任务将严肃追责
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,261 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:2017世界智能制造大会新闻发布会在京召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,278 [6] WARN  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,280 [6] INFO  WebCrawlerConsole.DoMain.Crawler - 长江锡业网-锡评,采集结束,共采集1条...共耗时14048毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,284 [6] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,324 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:黄岛“拾荒人”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,375 [6] INFO  WebCrawlerConsole.DoMain.Crawler - 湖南省环境保护厅-环境要闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,426 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:广东举行大数据开发者大会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,426 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-锡,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,501 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,存在相同【标题】的文章:深化大学习 狠抓大落实 重庆市环保局专题研究布置学习宣传贯彻市委五届三次全会精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,514 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 亚洲金属网-锡,采集结束,共采集1条...共耗时4975毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,516 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,556 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:海关印象
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,586 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,753 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,存在相同【标题】的文章:重庆市环境保护集中督察首批将进驻4个区县
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,754 [6] WARN  WebCrawlerConsole.DoMain.Crawler - 湖南省环境保护厅-环境要闻,存在相同【标题】的文章:环境保护部召开现场会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,816 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,存在相同【标题】的文章:云南省部分城市空气质量预测预报及会商培训班成功举办
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,820 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:贵州通信管理局党组成员率队开展电信普遍服务试点检查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,845 [6] WARN  WebCrawlerConsole.DoMain.Crawler - 湖南省环境保护厅-环境要闻,存在相同【标题】的文章:习近平主持召开十九届中央全面深化改革领导小组第一次会议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,935 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:红心向党
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,947 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:哈工程海洋文化馆开馆
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:31,989 [6] WARN  WebCrawlerConsole.DoMain.Crawler - 湖南省环境保护厅-环境要闻,存在相同【标题】的文章:张高丽到环境保护部调研
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,265 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,存在相同【标题】的文章:山东通报全省环境保护突出问题综合整治攻坚行动进展情况
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,265 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:西工大学子获第十五届“挑战杯”全国大学生课外学术科技作品竞赛 “一带一路”国际专项赛特等奖
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,430 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,存在相同【标题】的文章:云南约谈查处违法案件不力环保局未完成年度工作目标任务将严肃追责
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,433 [14] WARN  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,430 [6] WARN  WebCrawlerConsole.DoMain.Crawler - 湖南省环境保护厅-环境要闻,存在相同【标题】的文章:环境保护部推选京津冀及周边地区大气污染防治强化督查每周一星
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,523 [14] INFO  WebCrawlerConsole.DoMain.Crawler - 七彩云南保护行动网-热点聚焦,采集结束,共采集3条...共耗时3601毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,525 [14] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,556 [6] WARN  WebCrawlerConsole.DoMain.Crawler - 湖南省环境保护厅-环境要闻,存在相同【标题】的文章:环境保护部发布2017年10月和1-10月重点区域和74个城市空气质量状况
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,559 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:浙江出台实施意见确定生态保护红线的时间表施工图 红线意识要成为全社...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,559 [6] WARN  WebCrawlerConsole.DoMain.Crawler - 湖南省环境保护厅-环境要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,567 [6] INFO  WebCrawlerConsole.DoMain.Crawler - 湖南省环境保护厅-环境要闻,采集结束,共采集0条...共耗时3186毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,570 [6] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,565 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,存在相同【标题】的文章:山东通报秋冬季大气污染防治综合治理攻坚行动重点任务进展情况
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,564 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:你好，十九大！加油，海关！
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,589 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:北理工获首届中国大学生无人驾驶方程式汽车大赛冠军
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,688 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,存在相同【标题】的文章:哈工大举办民主党派基层组织负责人及青年骨干学习中共十九大精神培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,693 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,695 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-工作动态,采集结束,共采集0条...共耗时4333毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,698 [11] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,700 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-领导活动采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,712 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中国环境报头版头条：提升了环境质量，引领了产业转型，促进了群众增收...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,715 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,存在相同【标题】的文章:河北启动秋冬季大气污染治理第四轮督察
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,718 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,824 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-地方快讯,采集结束,共采集5条...共耗时9245毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,827 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,829 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-聚焦重污染天气采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,824 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:全省环境宣传教育工作研讨会在宁波北仑召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,850 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:青春见证发展
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,988 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:妥善收贮废源 服务基层企业
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,990 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-领导活动,存在相同【标题】的文章:世界VR产业大会筹备工作会议在南昌举行
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,993 [11] WARN  WebCrawlerConsole.DoMain.Crawler - 工信部-领导活动,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,995 [11] INFO  WebCrawlerConsole.DoMain.Crawler - 工信部-领导活动,采集结束,共采集0条...共耗时293毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,996 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办2017年清洁生产审核培训班（第二期）
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:34,998 [11] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,060 [10] ERROR WebCrawlerConsole.DoMain.Crawler - 江苏环保厅-省内要闻,http://www.jshb.gov.cn/jshbw/xwdt/slyw/,2016年最严格水资源管理制度考核结果公布 江苏再被点赞2017-11-23,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,104 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:全省市县环保局长岗位培训班在杭州举行
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,137 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:我是谁
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,249 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:我厅接待日本静冈县环保交流团一行
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,250 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-聚焦重污染天气,存在相同【标题】的文章:环境保护部推选京津冀及周边地区大气污染防治强化督查每周一星
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,256 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-聚焦重污染天气,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,259 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-聚焦重污染天气,采集结束,共采集5条...共耗时427毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,262 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,264 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-通知公告采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,274 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅就秸秆禁烧问题实施第二轮约谈
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,414 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:企业自律 协会引导 政府监管 浙江规范第三方环境监测市场
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,414 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:我变了，我没变——风雨兼程十八年
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,580 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:浙江发布全国首部河长制地方性法规 规范河长履职完善工作机制
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,581 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅对上饶市启动环保综合督查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,650 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:海关和你在一起
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,684 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:关于举办浙江省环境科学学会2017学术年会的第一轮通知
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,787 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:院士专家到我厅调研“五水共治”工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,909 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:曹永琳副厅长现场指导江西省危险废物监管平台项目建设工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,924 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,存在相同【标题】的文章:国门英雄 第33集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:35,941 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中国环境报头版头条 秉承“两山 ”理念 生态经济共赢 看临安在绿水...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,082 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:部省联手！环保部与浙江签约推进“十三五”水专项
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,131 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-通知公告,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,175 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-通知公告,采集结束,共采集6条...共耗时909毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,178 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,180 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-热点回应采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,226 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:浙江省第二届生态音乐节在余杭举行
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,229 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:陈小平在《中国环境报》发表署名文章《奋力打造美丽中国“江西样板”》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,339 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:深入探索可复制可推广模式示范引领全国生态文明建设 环保部命名首批“...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,457 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:环境保护部在我省安吉县召开全国生态文明建设现场推进会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,567 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:陈小平在樟树市调研生态环境保护工作时强调
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,609 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:2016年浙江省环境服务业排行榜
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,722 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,727 [9] INFO  WebCrawlerConsole.DoMain.Crawler - 海关总署-新闻搜索,采集结束,共采集0条...共耗时19259毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,731 [9] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,722 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-热点回应,存在相同【标题】的文章:2017年8-10月全国“12369”环保举报办理情况
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,735 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-热点回应,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,738 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-热点回应,采集结束,共采集6条...共耗时554毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,739 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,741 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-政策法规解读采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,733 [9] INFO  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,771 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:县级“多规合一”空间规划获批，生态空间比例提高到八成 开化发展不“...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,924 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:陈小平与赣州市市长曾文明举行会谈
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:36,926 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:促进公众参与 加强媒介沟通 浙江举办环境敏感项目公众参与工作坊
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,048 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:拒不执行环保行政处罚 永嘉一业主被司法拘留
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,053 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-政策法规解读,存在相同【标题】的文章:11月4-7日京津冀及周边地区污染过程专家解读
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,058 [7] WARN  WebCrawlerConsole.DoMain.Crawler - 环保部-政策法规解读,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,062 [7] INFO  WebCrawlerConsole.DoMain.Crawler - 环保部-政策法规解读,采集结束,共采集6条...共耗时318毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,066 [7] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,373 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:浙江生态报告制将覆盖省市县乡
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,373 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅发布新修订的辐射事故应急预案
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,485 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,存在相同【标题】的文章:海关总署第232号令
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,505 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:将暖心服务融入铁腕执法 德清软硬结合引导企业守法
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,678 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省召开下半年排污许可证核发工作推进座谈会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,694 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:8月21日中央环保督察相关新闻汇总
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,760 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,存在相同【标题】的文章:海关总署第231号令
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:37,983 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:深入贯彻十九大精神 共谋生态文明新篇章
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,033 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,存在相同【标题】的文章:海关总署第230号令
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,239 [10] WARN  WebCrawlerConsole.DoMain.Crawler - 江苏环保厅-省内要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,441 [10] INFO  WebCrawlerConsole.DoMain.Crawler - 江苏环保厅-省内要闻,采集结束,共采集12条...共耗时11326毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,444 [10] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,448 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中央第二环境保护督察组督察浙江省工作动员会在杭州召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,441 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:贯彻党的十九大精神 传递江西环保好声音
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,441 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,存在相同【标题】的文章:海关总署第229号令
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,523 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,http://www.customs.gov.cn/customs/302249/302266/302268/index.html,海关总署第228号令,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,584 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,http://www.customs.gov.cn/customs/302249/302266/302268/index.html,海关总署第227号令,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,647 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,http://www.customs.gov.cn/customs/302249/302266/302268/index.html,海关总署第226号令,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,725 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,http://www.customs.gov.cn/customs/302249/302266/302268/index.html,海关总署第225号令,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,763 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监察局举办全省环境监察岗位培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,794 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,http://www.customs.gov.cn/customs/302249/302266/302268/index.html,海关总署第224号令,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:38,870 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,http://www.customs.gov.cn/customs/302249/302266/302268/index.html,海关总署第223号令,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,055 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:郑为文副省长参加省环保厅机关第五党支部学习贯彻十九大精神学习会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,260 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:乐清重拳整治重污染行业 2018年基本解决金属表面处理、线路板、铸...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,363 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,存在相同【标题】的文章:海关总署第232号令
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,366 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,368 [9] INFO  WebCrawlerConsole.DoMain.Crawler - 海关总署-最新署令,采集结束,共采集0条...共耗时2622毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,372 [9] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,374 [9] INFO  WebCrawlerConsole.DoMain.Crawler - 海关总署-历史政策解读采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,367 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办全省环保系统政务服务工作培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,368 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:财经观察：中国将继续发挥全球经济“稳定器”作用——国际机构看好中国...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,490 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:国际机构纷纷上调我国经济增速预期 彰显经济发展底气
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,603 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:我厅组织开展“重走一大路 重温入党誓词”主题党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,677 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:吉安市委书记胡世忠到蜀水河部分河段进行调研
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,752 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:组建治水铁军 落实多项机制实现科技创新 浙江激发基层活力推动长效治...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,859 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:东阳一饰品加工厂直排超标废水被查 公安机关已对涉案人员采取刑事强制...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:39,972 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:中金岭南公司非法倾倒危废受重罚 浙江环保部门依法吊销其危废经营许可...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:40,000 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省、市环保部门联合开展环境自动监测设施公众开放活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:40,084 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:浙江省级层面公检法机关驻环保联络机构全部建立 打造环境执法与司法紧...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:40,196 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:风雨中的坚守
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:40,308 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅印发《江西省企业环境信用评价及信用管理暂行办法》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:40,314 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:“费改税”临近，排污费欠缴不能不了了之 浙江丽水管理服务并举做好征...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:40,430 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:义乌三方联动查处偷排企业 责令企业停止生产，拘留4名责任人
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:40,544 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:湖州抽调人员开展强化督查一丝不苟 着力打击稍纵即逝的环境违法行为
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:40,607 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保宣教中心召开全省《中国环境报》宣传工作座谈会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:40,688 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:在“浙”里品味绿水青山
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:40,809 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:坚定“八八战略” 坚持“两山”实践 高水准谱写生态环保工作新篇章
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:40,947 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅开展全省环境执法大练兵案卷评审
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:40,949 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:加强行业自律 严打数据造假 浙江规范污染源自动监测运行
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:41,069 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:环保与公检法共同营造打击违法犯罪高压态势 义乌集中宣判四起污染环境...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:41,180 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:省人大财经委、省审计厅赴宁波市联合督查饮用水水源保护专项审计整改情...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:41,255 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:江西省环保厅对外公布涉及国家级自然保护区违法违规举报电话
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:41,303 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:项目建设到哪里 环保跟进到哪里 东阳环保服务到家严管到位
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:41,454 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:构建新型监管体系探索多种监管方式 金华环境执法呈高压态势 恶性环境...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:41,535 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:上饶市委常委（扩大）会议研究环保工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:41,658 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:“天眼”指路，环境监管底气足
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:41,860 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:“四大行动”实现源头控制全过程监管 浙江提升危险废物精细化管理水平
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:41,990 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:浙江省环保厅与衢江区人民政府签订生态建设和环境保护战略合作协议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:42,102 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:临海查处一起重金属超标偷排案 3名涉案人员明知故犯情节严重被刑拘
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:42,239 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开党组扩大会议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:42,353 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:“地毯式”摸排 全方位监测 嘉兴港区清剿劣V类水
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:42,527 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:石晶出席泛珠三角区域环境保护合作联席会议第十三次会议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:42,833 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:全国环保系统学习贯彻党的十九大精神加强党内监督专题座谈会在昌召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:43,063 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:南昌市政府召开全市中央环保督察问题整改暨改善生态环境治理重点工作推进会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:43,257 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:浙江省环科院举办2017年科技活动周暨环保公众开放日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:43,305 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:赣州市中央环保督察问题整改暨改善生态环境质量重点工作会召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:43,457 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:竹海深处探余村
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:43,563 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办2017年清洁生产审核培训班（第二期）
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:43,655 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:守山山聚宝 护水水淌银
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:43,813 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅就秸秆禁烧问题实施第二轮约谈
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:43,846 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:浙江省环保厅关于2017年5月外埠环境影响评价机构登记受理情况的公...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:43,957 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:私设暗管偷排废水 金华追根溯源揪出幕后“黑手”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:43,988 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅对上饶市启动环保综合督查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:44,173 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:曹永琳副厅长现场指导江西省危险废物监管平台项目建设工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:44,264 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:江南水清否 且问验水亭
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:44,346 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:陈小平在《中国环境报》发表署名文章《奋力打造美丽中国“江西样板”》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:44,381 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:第三方治污解小微企业之忧 “环保体检”助企业健康发展 玉环环保服务...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:44,565 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:既可获“生态绿币”奖励，又可积累贷款信誉 百姓参与治水享受多重红利
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:44,566 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:陈小平在樟树市调研生态环境保护工作时强调
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:44,677 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:钱江源头筑屏障 一江清水送杭城 衢州实施四大治水工程力促全域消灭劣...
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:44,733 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:陈小平与赣州市市长曾文明举行会谈
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:44,813 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:狙击大气污染“隐形元凶” 浙江聚焦聚力，全面围剿挥发性有机物污染
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:44,934 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:永嘉查处印刷加工厂污染河道案 清洗油墨桶谁知进班房
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:44,951 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅发布新修订的辐射事故应急预案
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:45,041 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,存在相同【标题】的文章:环保部赴湖州市开展太湖蓝藻防治专项督导工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:45,124 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集异常,【新闻列表加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:45,178 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省召开下半年排污许可证核发工作推进座谈会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:45,208 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集异常,【新闻列表加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:45,275 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集异常,【新闻列表加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:45,341 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻采集异常,【新闻列表加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:45,344 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 浙江省环境保护厅-环保新闻,采集结束,共采集0条...共耗时13754毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:45,350 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:45,451 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:深入贯彻十九大精神 共谋生态文明新篇章
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:45,794 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:贯彻党的十九大精神 传递江西环保好声音
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:46,065 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监察局举办全省环境监察岗位培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:46,357 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:郑为文副省长参加省环保厅机关第五党支部学习贯彻十九大精神学习会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:46,361 [13] WARN  WebCrawlerConsole.DoMain.Crawler - 广东省环境保护厅-环保要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:46,610 [13] INFO  WebCrawlerConsole.DoMain.Crawler - 广东省环境保护厅-环保要闻,采集结束,共采集14条...共耗时19430毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:46,616 [13] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:46,611 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办全省环保系统政务服务工作培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:46,882 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:吉安市委书记胡世忠到蜀水河部分河段进行调研
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:47,102 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省、市环保部门联合开展环境自动监测设施公众开放活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:47,286 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅印发《江西省企业环境信用评价及信用管理暂行办法》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:47,618 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保宣教中心召开全省《中国环境报》宣传工作座谈会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:47,872 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅开展全省环境执法大练兵案卷评审
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:48,137 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:江西省环保厅对外公布涉及国家级自然保护区违法违规举报电话
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:48,370 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:上饶市委常委（扩大）会议研究环保工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:48,835 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省土壤详查办现场查看全省农用地土壤详查样品采集工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:49,112 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:还自然以宁静和谐美丽
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:49,432 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅开展2017年土壤环境管理有关业务培训
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:49,691 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅党组中心组专题学习党的十九大精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:49,990 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部对我省开展消耗臭氧层物质淘汰履约能力建设项目（二期）工作考评
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:50,262 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:全省农用地土壤详查样品采样、制备、流转与质量控制技术培训班在南昌市召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:50,576 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省第二次全国污染源普查工作实施方案征求意见会议召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:50,892 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅制定《江西省核技术利用辐射安全管理系统使用管理规定（暂行）》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:51,203 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开2017年江西省国家重点生态功能区县域生态环境质量监测评价与考核工作会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:51,501 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅对东华理工大学核技术应用项目开展督查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:51,806 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅开展驻赣环评机构检查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:52,113 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:陈小平深入景德镇市调研环境综合治理工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:52,375 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办2017年全省环境影响评价技术评审专家培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:52,657 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅就秸秆禁烧问题对部分地方政府负责人实施约谈
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:52,961 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅组织集中收看党的十九大开幕会盛况
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:53,277 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅对三个设区市重点核技术应用项目开展现场检查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:53,599 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅党组学习传达十八届七中全会精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:53,886 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:罗伟华组长出席省环科院专题组织生活会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:53,957 [5] ERROR WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,http://www.jxepb.gov.cn/hjzx/stdt/index97.htm,省委深改领导小组审议通过我省环保垂改实施方案,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:54,201 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅组织召开设区市环保局长会议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:54,481 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅机关第六党支部开展主题党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:54,786 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站党委召开专题组织生活会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:55,108 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省完成2017年电磁类项目竣工环保验收工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:55,410 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅组织对南昌市重点核技术应用项目进行现场检查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:55,713 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:全力支持省会南昌做好环境保护工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:56,024 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省召开《水污染防治行动计划》专项督导工作座谈会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:56,479 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办2017年全省核技术利用辐射安全管理系统培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:56,824 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:“三线一单”在流域综合规划环评中的应用案例分析技术研讨会在南昌召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:57,150 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅会同司法厅向社会公开遴选环境损害司法鉴定机构登记评审专家库专家
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:57,440 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅对国网江西省电力公司输变电工程开展现场检查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:57,713 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部督查我省辐射环境安全管理及国控网运行有关情况
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:57,992 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:靖安资溪婺源三县荣膺首批国家生态文明建设示范市县
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:58,248 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:江西记者站获中国环境报社宣传工作先锋记者站称号
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:58,502 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:《中国环境报》重点报道江西“两法衔接”取得实质进展
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:58,810 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅组织召开2017年度土壤污染防治项目审查会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:59,087 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅厅机关第四支部开展“迎接十九大做合格党员”系列活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:59,355 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:萍乡市召开中央和省环保督察问题整改工作推进部署会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:59,664 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:中国环境报社2017年宣传工作会议在景德镇市召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:27:59,960 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:吉安市委书记胡世忠调研环保工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:00,263 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:吉安市召开政府常务会研究环保工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:00,557 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省“两微”建设获得环保部宣教司表扬
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:00,797 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:《江西日报》一版发文对我省全面推进中央环保督察问题整改工作进行纪实性报道
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:01,008 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:吉安市召开中央环保督查问题整改暨中心城区空气质量整治工作调度推进会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:01,259 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境行政执法与刑事司法衔接工作联席会议召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:01,560 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:《江西以“生态佳”谋“生态+”》文章上《中国环境报》一版头条
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:01,885 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省第三环境保护督察组督察吉安市工作动员会在吉安市召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:02,210 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省第二环境保护督察组督察鹰潭市工作动员会在鹰潭市召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:02,711 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省第一环境保护督察组督察宜春市工作动员会在宜春市召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:03,016 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:江西省国家地表水环境质量监测事权上收工作视频会举行
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:03,317 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办“秀美泛珠 生态家园”微视频征集活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:03,707 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省政府召开2017年第二批省环境保护督察动员部署会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:03,990 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅、发改委联合开展“划定红线  保护生态”有奖知识竞答活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:04,473 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:赣州市召开中央环保督察反馈问题整改暨中办回访调研反馈问题整改工作推进会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:04,783 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省法建办对我厅2017年度法治建设工作开展中期专题督导调研
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:05,086 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省靖安、资溪和婺源三县通过第一批国家生态文明建设示范县考核验收
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:05,309 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省圆满完成2017年国家网土壤环境监测采样工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:05,628 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:吉安市委书记胡世忠就消灭劣Ⅴ类水进行实地调研
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:05,906 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省启动电子废物、废轮胎、废塑料、废旧衣服、废家电拆解等再生利用行业清理整顿工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:06,217 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅环境工程评估中心组织召开产业园区规划环境影响评价研讨会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:06,491 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办新华社“现场云”培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:06,839 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保产业协会召开第四次会员代表（暨脱钩）大会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:07,143 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:《江西省环境保护厅环境行政处罚案件办理程序暂行规定》出台
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:07,527 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅出台新修订的《江西省环境保护行政处罚自由裁量权细化标准》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:07,802 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:石晶副厅长赴赣州市督办大气污染防治工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:08,042 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅在共青城市召开省危险废物处置中心有关问题协调会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:08,340 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省第一批环境保护督察信访工作圆满收官
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:08,591 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保督察组在新余九江萍乡反馈督察意见
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:08,951 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:曹永琳副厅长赴吉安市检查指导工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:09,232 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省完成环评工程师职业资格证书“挂靠”问题集中治理工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:09,560 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:萍乡市市长李江河督导湘东区环保工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:09,849 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅举办污染地块土壤环境管理信息系统部署应用视频培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:10,140 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅扎实做好环境信访工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:10,437 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅举办环境信访疑难纠纷化解培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:10,706 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅多措并举推进社会信用体系建设
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:11,017 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:新余市长董晓健调研仙女湖饮用水源地保护工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:11,335 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织对《鄱阳湖区利用水泥窑处理城乡生活垃圾危险固废项目研究》项目进行验收
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:11,634 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:曹永琳副厅长赴德兴市调研断面水质整治工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:11,937 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:曹永琳副厅长赴景德镇市督查环保突出问题整改工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:12,432 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:石晶副厅长赴省放废库检查安全防卫工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:12,737 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织对《江西省在用汽车排气污染物限值及检测方法（遥测法）标准研究》项目进行验收
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:13,037 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部检查组对我省打击进口废物加工利用企业环境违法行为专项检查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:13,329 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办突出环境保护问题分析及其有关对策讲座
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:13,627 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅对赣州、吉安市“地条钢”清理整改工作进行专项检查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:13,935 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省医疗废物综合管理和协同处置示范省项目接受联合国工业发展组织的终期独立评估
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:14,267 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:曹永琳副厅长赴新余市督办大气污染防治工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:14,584 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅对新余市水环境质量下降问题进行约谈
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:14,883 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织举办2017年度全省污染源监测管理培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:15,193 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织开展新干县-樟树市地表水县界断面（巷里曹家）水质监测工作现场调研
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:15,448 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅出台《江西省环境执法人员行为规范》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:15,737 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅评估中心动员部署“忠诚干净担当 爱岗敬业奉献”主题教育活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:16,054 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省派出参加环保部京津冀大气强化督查组荣获“每周一星”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:16,351 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站召开站长办公会扩大会议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:16,633 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站发布省内环境空气质量手机查询APP
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:16,927 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站举办全省2017年国控土壤例行监测技术培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:17,178 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅对安远县孔田晨光学校乡村少年宫等获得环保比赛奖项的单位和个人进行通报表扬
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:17,447 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:国家检查组来我省调研督导土壤详查质量管理工作准备情况
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:17,755 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅开展危险废物处置能力建设现场督导
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:18,156 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站围绕“忠诚干净担当 爱岗敬业奉献”主题开展集中学习
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:18,503 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅取消社会环境监测机构能力认定工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:18,800 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院召开院党委换届选举大会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:19,152 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省生态环境保护“十三五”规划颁布实施
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:19,458 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:中共江西省环境监测中心站委员会换届选举大会胜利召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:19,764 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测站举办全省地表水水质自动监测站运行维护和考核管理培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:20,026 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省正式出台《江西省生态环境监测网络建设实施方案》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:20,515 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开全省环保宣教工作会议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:20,892 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅大力推动地表水水质自动监测站运维机制改革
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:21,167 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅与江西财大签署战略合作协议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:21,393 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-历史政策解读采集异常,【分页元素获取失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:21,398 [9] INFO  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:21,442 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅积极开展规范性文件合法性审查工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:21,726 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:罗小璋赴上饶督办大气污染防治工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:22,056 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办2017年清洁生产培训班（第一期）
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:22,140 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,存在相同【标题】的文章:（7）2017年10月货运监管业务统计快报表
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:22,328 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅组织收听收看环保部专项行动视频会议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:22,484 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,存在相同【标题】的文章:（0）2017年10月全国进出口月度总值表(人民币值)
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:22,592 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅与国土厅、农业厅联合召开全省农用地土壤详查点位布设和核实工作部署暨技术培训会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:22,882 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:罗伟华到萍乡督办大气污染防治工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:23,127 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:曹永琳副厅长参加省人大环资委固废法执法检查业务培训会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:23,427 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省政府召开全省黄标车淘汰电视电话会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:23,680 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省政府召开常务会议部署生态环保工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:23,975 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅评估中心组织《污染源源强核算技术指南 有色金属》江西片区数据采集工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:24,287 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院开展“忠诚干净担当、爱岗敬业奉献”主题教育活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:24,577 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站开展迎建党96周年知识竞赛活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:24,840 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开庆祝建党96周年大会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:25,140 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办生态保护红线校核调整完善工作培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:25,489 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅开设专栏宣传生态保护红线划定和环保体制垂改工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:25,740 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省固管中心支部开展庆祝建党96周年系列活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:25,995 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站组织各设区市站开展地表水国控网承担单位实验室质控样品测试
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:26,292 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站顺利通过上岗证考核
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:26,610 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保宣教中心抓住机遇深入推进环保宣教工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:26,890 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅评估中心党支部开展迎“七·一”系列活动，促“两学一做”常态化制度化
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:27,187 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅开展2017年工业企业大气污染防治专项执法检查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:27,412 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保宣教中心支部开展“讲政治、有信念做政治合格的共产党员”党课活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:27,711 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部人事司叶民莅临我省调研流域环境管理及省以下环保垂改工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:28,194 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅开展全省油气回收治理专项检查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:28,486 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅就“生态环保大数据建设”前往省发改委山江湖办调研
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:28,797 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站围绕 “讲政治、有信念--做政治合格的共产党员” 专题开展集中学习
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:29,098 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省9件作品获得2017年国际环境小记者项目新闻作品大赛奖项
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:29,408 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:陈小平厅长赴大陂村调研指导脱贫攻坚工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:29,795 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站党委创新形式开展主题党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:30,094 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省两名宣教人员获得中国环境报优秀通讯员奖励
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:30,356 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:罗伟华到婺源王村走访慰问
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:30,611 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:《江西环境年鉴》（2015）获江西省第二届年鉴质量评比二等奖
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:30,861 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省地表水监测质量省级监督情况汇报会召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:31,161 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅积极做好环境信访“放管服”工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:31,490 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环监局党支部创新形式开展主题党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:31,840 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:江西省召开2017年执法大练兵活动视频部署动员会议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:32,161 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省核发排污许可证数量排全国第11位
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:32,462 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院开展“节能环保进社区，绿色低碳你我行”学雷锋志愿者活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:32,855 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅对峡江县省级生态县创建工作进行指标测评
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:33,141 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:传唱环保“好声音”打造美丽中国“江西样板”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:33,463 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站召开全国辐射环境监测技能竞赛动员会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:33,788 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅召开推进乐安河重金属污染防治工作整改调度会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:34,125 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开危险废物处置能力不足整改情况调度会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:34,438 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省各地迅速贯彻落实中央环保督察问题整改工作调度推进会精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:34,744 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:全省排污许可制工作调度暨技术审核培训会召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:35,062 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅印发《2017年全省环境法制建设工作要点》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:35,379 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省召开生态保护红线划定工作领导小组成立暨第一次扩大会议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:35,685 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:蔡晓明深入景德镇调研对口联系工业园区及城市建设
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:35,986 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省颁发首张全国统一编码排污许可证对排污单位实行全过程一证式监管
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:36,510 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅开展道德讲堂活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:36,770 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省政府召开中央环保督察问题整改工作调度推进会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:37,051 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环监局党支部开展专题理论学习
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:37,355 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境科学学会与南昌大学团委联合举行环保科普行启动仪式
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:37,665 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院荣获2016年度江西省科技进步奖一项
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:37,929 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:像保护眼睛一样保护生态环境 像对待生命一样对待生态环境
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:38,198 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:郑为文副省长在《江西日报》发表纪念环境日署名文章
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:38,757 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开“6·5世界环境日”新闻发布会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:39,110 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省学生获全国中学生环保大赛特等奖
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:39,360 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:中央电视台《新闻联播》报道我省启动百所高校青年志愿者环保宣传活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:39,663 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅发布《2016江西省环境状况公报》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:39,920 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环监局参加《党风政风热线》节目
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:40,155 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省举行“六·五”环境日宣传活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:40,462 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:郑为文副省长调度部署污染防治工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:40,754 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站党支部开展主题教育活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:41,061 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅在省直机关“三评一树”中获奖
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:41,382 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站党委第一支部开展“我们的节日·端午节”主题活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:41,677 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保宣教中心组织在江西广播电台播出环保公益广告
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:41,974 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省固废中心组织召开再生铜行业UPOPs减排示范省项目座谈会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:42,257 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅评估中心党支部开展专题教育
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:42,561 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保宣教中心组织开展学习近平总书 记讲话和政治理论学习
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:42,863 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开推进全省排污许可制度实施工作座谈会议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:43,142 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射环境监督站举办全省辐射事故应急培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:43,440 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部在我省召开土壤污染防治项目库技术指导座谈会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:43,733 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院开展“环保科技、惠及民生”2017年环保公众开放活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:44,011 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅厅机关第六党支部开展主题党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:44,478 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院组织开展“我们的节日·端午节”主题系列活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:44,726 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院组织开展多项志愿者活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:45,030 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:江西省成立第二次全国污染源普查工作办公室
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:45,333 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站开展“关爱贫困儿童实现微心愿”志愿者活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:45,681 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站、省环境科学学会开展科技活动周环保公众开放活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:46,015 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开党组中心组理论学习会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:46,386 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅石晶副厅长深入大陂村调研脱贫攻坚工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:46,735 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅评估中心积极开展环评业务知识宣传
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:47,059 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅对寻乌县省级生态县创建工作进行指标测评
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:47,293 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:周萌深入我厅对口帮扶园区昌南工业园区调研
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:47,536 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省打响大气污染防治攻坚战
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:47,827 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅积极组织“美丽南昌·幸福家园”环境综合整治志愿服务活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:48,111 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境信息中心党支部开展“忠诚干净担当”主题党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:48,411 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院召开调研情况汇报会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:48,710 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开全省加强地表水监测质量工作视频会议并启动省级监督工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:49,052 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省第二环境保护督察组督察九江市工作动员会召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:49,344 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射环境自动监测站运行工作获环保部通报表扬
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:49,659 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅评估中心党支部开展“忠诚干净担当，爱岗敬业奉献”
+主题党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:49,977 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部2017年第六期全国环境监察干部岗位培训班在南昌举行
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:50,264 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:陈小平厅长赴吉安市、赣州市调研2017年环境保护重点工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:50,569 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅机关第五党支部开展党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:50,861 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站党支部召开主题党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:51,155 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅举办“生态环保大数据建设与应用技术交流会”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:51,403 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:周萌深入我厅对口帮扶园区井冈山经开区调研
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:51,698 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅机关后勤服务中心党支部开展主题党日活动简讯
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:52,000 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院党委组织开展“忠诚干净担当”专题党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:52,464 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省第一环境保护督察组督察新余市工作动员会召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:52,731 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅副巡视员冀常和赴婺源县指导脱贫攻坚及平安创建对口帮扶工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:52,991 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省第三环境保护督察组督察萍乡市工作动员会召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:53,289 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站党支部采取系列措施严格党内政治生活
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:53,629 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅机关第一党支部开展党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:53,972 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环监局党支部开展主题党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:54,524 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保督察问题整改工作领导小组办公室召开中央环保督察问题整改工作专项检查情况汇报会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:54,910 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站党委组织各支部开展“忠诚干净担当”党日专题学习讨论活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:55,268 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省固管中心党支部开展主题党日活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:55,567 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅开展第一期省环境保护督察信访工作培训
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:55,834 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:石晶副厅长带队考察马口工业园 推进环保产业园建设
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:56,091 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省政协主席黄跃金在省环保厅调研座谈
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:56,398 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院举办污染场地调查评估学术报告会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:56,783 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织召开江西省核安全与放射性污染防治“十三五”工作实施方案编制协调会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:57,085 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境保护督察办公室举办2017年第一批环境保护督察人员培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:57,450 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院开展“弘扬五四精神、展现青春活力”素质拓展训练活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:57,692 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开“五四”青年节座谈会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:58,017 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站对接“总体思路”，致力“十大建设”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:58,287 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省召开2017年第一批省环境保护督察动员部署会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:58,580 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站完成地表水国控断面质控检查工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:58,946 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织环保信访部门积极开展“喜迎十九大、岗位作贡献”活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:59,182 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院与省内高校和科研单位共同成立江西省高校水利工程学科联盟
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:59,582 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省固管中心组织开展党报谈“政治能力”专题学习
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:28:59,904 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院开展“美化环境、亮化社区”学雷锋志愿者活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:00,290 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院吴颖靖获“2011-2015年度全省实施妇女儿童发展纲要先进个人”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:00,654 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅完成了对萍乡等设区市放射源安全检查专项行动的督查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:01,250 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院举办污染场地调查评估学术报告会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:01,543 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织召开江西省核安全与放射性污染防治“十三五”工作实施方案编制协调会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:01,838 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境保护督察办公室举办2017年第一批环境保护督察人员培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:02,127 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院开展“弘扬五四精神、展现青春活力”素质拓展训练活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:02,466 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开“五四”青年节座谈会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:02,818 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站对接“总体思路”，致力“十大建设”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:03,133 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省召开2017年第一批省环境保护督察动员部署会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:03,448 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站完成地表水国控断面质控检查工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:03,737 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织环保信访部门积极开展“喜迎十九大、岗位作贡献”活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:03,990 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院与省内高校和科研单位共同成立江西省高校水利工程学科联盟
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:04,237 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省固管中心组织开展党报谈“政治能力”专题学习
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:04,518 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院开展“美化环境、亮化社区”学雷锋志愿者活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:04,519 [9] ERROR WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,http://www.customs.gov.cn/customs/302249/302274/302275/index.html,（1）2017年10月全国进出口总值表（人民币值）,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:04,753 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院吴颖靖获“2011-2015年度全省实施妇女儿童发展纲要先进个人”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:04,944 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅完成了对萍乡等设区市放射源安全检查专项行动的督查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:04,982 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,存在相同【标题】的文章:（2）2017年10月进出口商品贸易方式总值表（当月）（人民币值）
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:05,241 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织厅直系统退休老干部踏青活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:05,362 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,存在相同【标题】的文章:（3）2017年10月进出口商品贸易方式总值表（累计）（人民币值）
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:05,540 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境信息中心与省山江湖办共商“生态云大数据工程”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:05,759 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,存在相同【标题】的文章:（4）2017年10月进出口商品主要国别（地区）总值表（人民币值）
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:05,853 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院与环保部华南环境科学研究所就珠江流域水环境联合研究院建设工作进行洽谈
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:06,133 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:江西省对外公开中央环境保护督察整改方案
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:06,143 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,存在相同【标题】的文章:（5）2017年10月全国出口重点商品量值表（人民币值）
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:06,433 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环监局排污申报与排污费征收工作在2016年全国汇审中获奖
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:06,522 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,存在相同【标题】的文章:（6）2017年10月全国进口重点商品量值表（人民币值）
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:06,720 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省政府开展大气环境重点污染源治理专项督查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:06,868 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,存在相同【标题】的文章:（0）2017年10月全国进出口月度总值表(美元值)
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:06,981 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站调研九江市辐射事故应急演习前期准备情况
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:07,215 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,存在相同【标题】的文章:（1）2017年10月全国进出口总值表（美元值）
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:07,246 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境信息中心组织传达厅务会议精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:07,505 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:厅评估中心制定贯彻落实“十大建设”任务实施办法
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:07,764 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,存在相同【标题】的文章:（7）2017年10月货运监管业务统计快报表
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:07,768 [9] WARN  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:07,773 [9] INFO  WebCrawlerConsole.DoMain.Crawler - 海关总署-统计快讯,采集结束,共采集0条...共耗时46372毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:07,778 [9] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:07,767 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开专题会研究脱贫攻坚整改工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:07,977 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅印发《关于学习宣传贯彻《江西省党政领导干部生态环境损害责任追究实施细则（试行）》的通知》》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:08,154 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅机关及8个厅直单位荣获省直机关第十三届文明单位称号
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:08,609 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保宣教中心传达学习厅务会会议精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:08,911 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省固管中心学习传达《中共江西省委关于加强和改进机关党建工作的若干意见》等文件精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:09,187 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅组织参加环保部第八期环保大讲堂
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:09,554 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院迅速传达落实厅务会会议精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:09,854 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省宣教中心“江西环境”官方微信公众号正式上线
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:10,125 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:陈小平：以十大建设为抓手，整体推进环保工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:10,430 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅评估中心学习传达《中共江西省委关于加强和改进机关党建工作的若干意见》等文件精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:11,103 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站传达学习厅务会精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:11,483 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅完成了对四个设区市放射源安全检查专项行动的督查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:11,790 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保宣教中心在《中国环境报》用稿量攀升
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:12,086 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部调研组来赣检查调研中央专项资金项目实施情况
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:12,371 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部调研组赴江西开展中央重金属（土壤）污染防治专项资金项目监督检查前期调研工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:12,661 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站邀请专家上党课
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:12,959 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:副省长郑为文赴九江市调研督导中央环保督察问题整改工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:13,265 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅一季度信访工作实现减量增质
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:13,577 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅启动了全省放射源安全检查专项行动督查工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:13,872 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站党支部开展学习讨论活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:14,172 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:副省长郑为文调研督导南昌市中央环保督察问题整改工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:14,447 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:赣粤两省跨界河流水污染联防联控联席会召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:14,767 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开2017年昌九区域大气污染联防联控联席会议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:15,064 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅公布行政检查“双随机一公开”工作《随机抽查事项清单》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:15,380 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院传达学习《痛批“新衙门作风”》等文章、文件
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:15,661 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省派出120名环境监察骨干参加全国大气督查
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:16,303 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅机关第六党支部开展集中学习
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:16,690 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅积极开展积案化解“春季攻坚”行动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:16,977 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站进一步规范市、县（区）环境监测站的质量管理工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:17,497 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:郑为文副省长率团出席2017年澳门国际环保合作发展论坛及展览
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:17,807 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环监局组织学习《党报痛批“新衙门作风》等微信文章
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:18,089 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院派科技人员为“仙女湖湖泊生态环境保护专题讲座”授课
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:18,365 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅评估中心周例会开展杜绝“新衙门作风”
+专题学习讨论
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:18,676 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅省水利厅签订《关于加强全省水环境保护工作合作框架协议》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:18,987 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保宣教中心开展理论学习坚决杜绝“新衙门作风”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:19,280 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环监局召开全省环境监察执法工作部署会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:19,602 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:陈小平厅长会见参加全省环境监察执法及应急工作部署会的会议代表
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:19,909 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站迅速组织各支部传达学习《党报痛批的“新衙门作风”》
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:20,185 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省固体废物管理中心组织改进工作作风专题学习
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:20,479 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅对监测断面水质恶化的设区市环保局进行约谈
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:20,789 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:全省辐射安全监管工作会议暨监管业务培训班开班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:21,035 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:《江西省党政领导干部生态环境损害责任追究实施细则（试行）》出台
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:21,348 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办“加强思想道德建设”专题讲座
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:21,623 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保宣教中心适应新形势加大宣传力度
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:21,899 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅举办全省环境信访接电办信工作培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:22,088 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅开展综治宣传月集中宣传活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:22,388 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部来赣开展环境经济形势调研
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:22,628 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅省水利厅召开工作协调会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:22,839 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境信息中心传达学习全省环保工作会议精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:23,157 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站传达学习全省环保工作会议等会议精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:23,462 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院传达落实全省环保工作会议精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:23,768 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省固管中心传达学习全省环保工作会议精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:24,036 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:郑为文副省长赴赣州调研督导中央环保督察问题整改工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:24,288 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅获全省机关党员干部春节回乡调研活动优秀组织奖
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:24,570 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅评估中心传达全省环境保护工作会议精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:25,053 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环监局传达学习全省环保工作会议精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:25,284 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保宣教中心传达2017年全省环境保护工作会议精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:25,618 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站召开中层以上干部会议传达学习全省环保工作会议精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:25,834 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅后勤中心学习传达全省环保工作会议精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:26,070 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:2017年全省环境保护工作会议暨全省工业园区环境整治动员部署会召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:26,331 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:全省环境保护局长会议召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:26,623 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:全省环保系统党风廉政建设工作会议召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:26,927 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院举办加强科技管理学术报告会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:27,293 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院开展“学雷锋 倡文明，护环境 我先行”志愿者活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:27,676 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开省以下环保机构监测监察执法垂直管理制度改革工作座谈会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:27,977 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织举办全省县级环境空气自动监测技术培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:28,279 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部华东环保督查中心高振宁主任莅临我省调研督导中央环保督察问题整改工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:28,585 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅完成放射源安全检查专项行动排查阶段任务
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:28,911 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省人大环资委主任委员陈尚云跟踪督导艾溪湖、瑶湖、青山湖“湖长制”工作暨水环境治理工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:29,215 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:郑为文副省长赴萍乡、宜春调研中央环保督察反馈问题整改工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:29,569 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省人大副主任冯桃莲视察南昌市跨界断面水质情况
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:29,789 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织开展学雷锋志愿服务活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:30,102 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:2017年“绿色学校”授牌暨校长培训班开班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:30,416 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:全省县级环境空气自动监测技术培训班开班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:30,716 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保宣教中心传达厅机关全体干部和下属单位副处以上干部大会精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:31,027 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:环保部调研组来江西开展生态文明建设问题研究专题调研
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:31,366 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监察局开展“学雷锋  树新风  社区行”活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:31,658 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环科院举办“水生态监测技术”学术讲座
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:31,909 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站党委迅速传达省环保厅干部大会精神
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:32,205 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅举办《江西省大气污染防治条例》宣贯视频培训班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:32,543 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站召开全体干部职工大会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:33,073 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开机关干部大会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:33,358 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:副省长郑为文赴新余、吉安督导中央环保督察问题整改工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:33,636 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环监局党支部通报民主生活会情况并举行新年度首堂党课
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:33,885 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:罗小璋副厅长为援疆干部送行
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:34,185 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:曹永琳副厅长出席再生铜冶炼行业无意产生持久性有机污染物减排示范项目调度会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:34,535 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:郑为文副省长赴抚州督导中央环保督察问题整改工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:34,838 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:罗小璋副厅长调研上高县工业园污染防治工作情况
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:35,098 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅、教育厅命名第六批“江西省绿色学校”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:35,456 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织对《溶藻放线菌野外防治蓝藻水华的应用研究》项目进行验收
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:35,750 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境信息中心召开2016年度领导班子“两学一做”专题民主生活会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:36,034 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅机关第五党支部召开民主生活会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:36,291 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:全省环境信访工作视频会议召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:36,844 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环监局3名同志获国家环境保护督察办公室表扬
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:37,695 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅组织对《江西省生态工业园环境监测与评价模式研究》项目进行验收
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:37,980 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:石晶副厅长出席省环科院2016年度领导班子民主生活会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:38,238 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:石晶副厅长出席省环科院2016年度总结表彰大会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:38,508 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:石晶副厅长指导厅评估中心领导班子专题民主生活会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:38,763 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:冀常和副巡视员出席宣教中心党支部民主生活会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:38,991 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅做好春节与两会期间信访维稳工作
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:39,257 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省厅评估中心加大对下放项目技术支持
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:39,542 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:全省环境统计工作培训班开班
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:39,925 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:石晶副厅长出席省辐射站领导班子民主生活会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:40,225 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:罗小璋副厅长参加省环监局民主生活会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:40,499 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环监局召开2016年度总结表彰会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:40,798 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开2016年度总结表彰大会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:41,081 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开处级干部2016年度述职述责述廉民主测评大会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:41,723 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我省建设项目环境影响登记表实行网上备案
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:42,068 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站召开2016年度领导班子民主生活会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:42,401 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅开展“江西--2016”辐射事故综合应急演习
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:42,689 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅联合有关单位在全省开展移动通信基站电磁辐射宣传
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:42,976 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站3项500kV输变电项目通过专家评审
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:43,298 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省辐射站完成江西基站电磁辐射科普宣传
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:43,625 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:我厅对全南县省级生态县创建工作进行考核验收
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:43,923 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:泛珠三角区域环境保护合作联席会议第十二次会议在南昌召开
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:44,223 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省政府召开中央环保督察问题整改工作动员部署视频会议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:44,487 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:曹永琳总工出席省环境监测中心站总结表彰大会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:44,785 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环保厅召开贯彻落实全面从严治党“两个责任”暨民主生活会会前征求意见座谈会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:45,141 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站组织开展“两学一做”党员民主评议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:45,406 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站开展环境监测技术培训志愿者活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:45,684 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:厅评估中心组织党员干部集中观看警示教育片
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:46,094 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:厅评估中心组织2016年度健身考核活动
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:46,908 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,存在相同【标题】的文章:省环境监测中心站举办“追忆峥嵘岁月，传诵红色经典”讲故事比赛
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:46,913 [5] WARN  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:46,918 [5] INFO  WebCrawlerConsole.DoMain.Crawler - 江西省环境保护厅-环保要闻,采集结束,共采集5条...共耗时136657毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:46,922 [5] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-24 15:29:47,082 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname

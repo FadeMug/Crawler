@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FryModelStoreContainer" CdmEntityContainer="FryEntities">
+    <EntitySetMapping Name="Fry_Tag">
+      <EntityTypeMapping TypeName="FryModel.Fry_Tag">
+        <MappingFragment StoreEntitySet="Fry_Tag">
+          <ScalarProperty Name="TagType" ColumnName="TagType" />
+          <ScalarProperty Name="TagMark" ColumnName="TagMark" />
+          <ScalarProperty Name="TagName" ColumnName="TagName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Fry_Article">
+      <EntityTypeMapping TypeName="FryModel.Fry_Article">
+        <MappingFragment StoreEntitySet="Fry_Article">
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="ReleaseDate" ColumnName="ReleaseDate" />
+          <ScalarProperty Name="Type_" ColumnName="Type_" />
+          <ScalarProperty Name="Title_" ColumnName="Title_" />
+          <ScalarProperty Name="PulDate" ColumnName="PulDate" />
+          <ScalarProperty Name="Author" ColumnName="Author" />
+          <ScalarProperty Name="PageContext" ColumnName="PageContext" />
+          <ScalarProperty Name="IsVerify" ColumnName="IsVerify" />
+          <ScalarProperty Name="Domain" ColumnName="Domain" />
+          <ScalarProperty Name="RealUrl" ColumnName="RealUrl" />
+          <ScalarProperty Name="BaiduUrl" ColumnName="BaiduUrl" />
+          <ScalarProperty Name="Abstract" ColumnName="Abstract" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Source" ColumnName="Source" />
+          <ScalarProperty Name="Tag" ColumnName="Tag" />
+          <ScalarProperty Name="TagId" ColumnName="TagId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

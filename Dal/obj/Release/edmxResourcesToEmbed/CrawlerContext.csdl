@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WebCrawlerModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CrawlerCategory">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="h5_Article">
+    <Key>
+      <PropertyRef Name="article_id" />
+    </Key>
+    <Property Name="article_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="article_title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="author_id" Type="Int32" />
+    <Property Name="author_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="article_iscover" Type="Byte" />
+    <Property Name="article_coverurl" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="article_isoriginal" Type="Byte" />
+    <Property Name="articleCategory1_ID" Type="Int32" />
+    <Property Name="articleCategory1_Name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="articleCategory2_ID" Type="Int32" />
+    <Property Name="articleCategory2_Name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="articleCategory3_ID" Type="Int32" />
+    <Property Name="articleCategory3_Name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="article_isstick" Type="Byte" />
+    <Property Name="article_releasetime" Type="DateTime" Precision="3" />
+    <Property Name="article_createtime" Type="DateTime" Precision="3" />
+    <Property Name="article_isrelease" Type="Byte" />
+    <Property Name="article_isdelete" Type="Byte" />
+    <Property Name="article_ishistory" Type="Byte" />
+    <Property Name="showtype" Type="Byte" />
+    <Property Name="is_delay_release" Type="Boolean" />
+    <Property Name="delay_release_time" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="h5_ArticleCategory">
+    <Key>
+      <PropertyRef Name="articlecategory_id" />
+    </Key>
+    <Property Name="articlecategory_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="articlecategory_parentid" Type="Int32" />
+    <Property Name="articlecategory_name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="articlecategory_sort" Type="Int32" />
+    <Property Name="icon_uri" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="bg_color" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="checked_icon_uri" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="is_valid" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="h5_ArticleContent">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="article_id" Type="Int32" />
+    <Property Name="articlecontent" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="CrawlerEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CrawlerCategory" EntityType="Self.CrawlerCategory" />
+    <EntitySet Name="h5_Article" EntityType="Self.h5_Article" />
+    <EntitySet Name="h5_ArticleCategory" EntityType="Self.h5_ArticleCategory" />
+    <EntitySet Name="h5_ArticleContent" EntityType="Self.h5_ArticleContent" />
+    <EntitySet Name="CrawlerNews" EntityType="WebCrawlerModel.CrawlerNews" />
+    <EntitySet Name="CrawlerDetail" EntityType="WebCrawlerModel.CrawlerDetail" />
+    <EntitySet Name="SYS_Staff" EntityType="WebCrawlerModel.SYS_Staff" />
+    <EntitySet Name="SYS_StaffCount" EntityType="WebCrawlerModel.SYS_StaffCount" />
+    <EntitySet Name="CrawlerPriceFormula" EntityType="WebCrawlerModel.CrawlerPriceFormula" />
+    <EntitySet Name="CrawlerVarietyCategory" EntityType="WebCrawlerModel.CrawlerVarietyCategory" />
+    <EntitySet Name="CrawlerVarietyDetail" EntityType="WebCrawlerModel.CrawlerVarietyDetail" />
+    <EntitySet Name="CrawlerPriceInitial" EntityType="WebCrawlerModel.CrawlerPriceInitial" />
+    <EntitySet Name="CrawlerPriceCalculate" EntityType="WebCrawlerModel.CrawlerPriceCalculate" />
+    <EntitySet Name="CrawlerPriceResult_" EntityType="WebCrawlerModel.CrawlerPriceResult_" />
+    <EntitySet Name="CrawlerMetalCategory_" EntityType="WebCrawlerModel.CrawlerMetalCategory_" />
+  </EntityContainer>
+  <EntityType Name="CrawlerNews">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CrawlerDetailId" Type="Int32" />
+    <Property Name="CrawlerDetailName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NewsTitle" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="NewsSummary" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="NewsContent" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="NewsAuthor" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NewsThumbnailImg" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="NewsReleaseTime" Type="DateTime" Precision="3" />
+    <Property Name="NewsSourceLink" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+    <Property Name="IsOriginal" Type="Boolean" />
+    <Property Name="CopyRight" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IsRead" Type="Boolean" />
+    <Property Name="ApplyType" Type="Int32" />
+  </EntityType>
+  <EntityType Name="CrawlerDetail">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CrawlerCategoryId" Type="Int32" />
+    <Property Name="ArticleCategoryId" Type="Int32" />
+    <Property Name="SourcesName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SourcesUrl" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="Isvalid" Type="Boolean" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+    <Property Name="IsSucessFetch" Type="Boolean" />
+    <Property Name="RunTime" Type="DateTime" Precision="3" />
+    <Property Name="RunCount" Type="Int32" Nullable="false" />
+    <Property Name="RecentNewsTime" Type="DateTime" Precision="3" />
+    <Property Name="IsDeleted" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="SYS_Staff">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Guid" Nullable="false" />
+    <Property Name="RoleID" Type="Int32" />
+    <Property Name="DepartmentID" Type="Int32" />
+    <Property Name="JobNumber" Type="String" Nullable="false" MaxLength="80" FixedLength="false" Unicode="true" />
+    <Property Name="StaffName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="StaffPassword" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="StaffMobile" Type="String" MaxLength="11" FixedLength="true" Unicode="false" />
+    <Property Name="RoleName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="DepartmentName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+    <Property Name="UpdateTime" Type="DateTime" Precision="3" />
+    <Property Name="StaffDelete" Type="Byte" />
+  </EntityType>
+  <EntityType Name="SYS_StaffCount">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Guid" Nullable="false" />
+    <Property Name="StaffID" Type="Guid" />
+    <Property Name="LoginCount" Type="Int32" />
+    <Property Name="StaffLastLoginTime" Type="DateTime" Precision="3" />
+    <Property Name="JointCount" Type="Byte" />
+  </EntityType>
+  <EntityType Name="CrawlerPriceFormula">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VarietyCategoryId" Type="Int32" />
+    <Property Name="MaxFormula" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MinFormula" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="AvgFormula" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="CrawlerVarietyCategory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VarietyCategory" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+    <Property Name="MetalCategoryId" Type="Int32" />
+    <Property Name="Spec" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IsManual" Type="Int32" />
+  </EntityType>
+  <EntityType Name="CrawlerVarietyDetail">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VarietyCategoryId" Type="Int32" />
+    <Property Name="VarietyName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="CrawlerPriceInitial">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VarietyName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MaxPrice" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="MinPrice" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Change" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="OriginPlace" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ReleaseDate" Type="DateTime" Precision="3" />
+    <Property Name="DayAvg" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Unit" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Tax" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Market" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Remark" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="CrawlerPriceCalculate">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VarietyCategory" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MaxPrice" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="MinPrice" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Change" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="OriginPlace" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ReleaseDate" Type="DateTime" Precision="3" />
+    <Property Name="DayAvg" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Unit" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Tax" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Market" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Remark" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+    <Property Name="VarietyCategoryId" Type="Int32" />
+    <Property Name="MetalCategoryId" Type="Int32" />
+    <Property Name="Spec" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IsManual" Type="Int32" />
+  </EntityType>
+  <EntityType Name="CrawlerPriceResult_">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VarietyCategory" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MaxPrice" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="MinPrice" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Change" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="OriginPlace" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ReleaseDate" Type="DateTime" Precision="3" />
+    <Property Name="DayAvg" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Unit" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Tax" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Market" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Remark" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+    <Property Name="VarietyCategoryId" Type="Int32" />
+    <Property Name="WeekAvg" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="MonthAvg" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="MetalCategoryId" Type="Int32" />
+    <Property Name="Spec" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IsManual" Type="Int32" />
+  </EntityType>
+  <EntityType Name="CrawlerMetalCategory_">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MetalCategory" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+  </EntityType>
+</Schema>

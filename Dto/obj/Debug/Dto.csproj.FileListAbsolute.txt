@@ -1,0 +1,11 @@
+D:\project\datacollection\Dto\bin\Debug\Dto.dll
+D:\project\datacollection\Dto\bin\Debug\Dto.pdb
+D:\project\datacollection\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\project\datacollection\Dto\obj\Debug\Dto.dll
+D:\project\datacollection\Dto\obj\Debug\Dto.pdb
+D:\project\WebCrawler\Dto\bin\Debug\Dto.dll
+D:\project\WebCrawler\Dto\bin\Debug\Dto.pdb
+D:\project\WebCrawler\Dto\obj\Debug\Dto.csprojResolveAssemblyReference.cache
+D:\project\WebCrawler\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\project\WebCrawler\Dto\obj\Debug\Dto.dll
+D:\project\WebCrawler\Dto\obj\Debug\Dto.pdb

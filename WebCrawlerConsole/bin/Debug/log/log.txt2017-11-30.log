@@ -1,0 +1,14 @@
+2017-11-30 09:01:35,792 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-11-30 09:01:40,007 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-30 09:04:12,585 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,存在相同【标题】的文章:备案制改革三周年 资产证券化市场日益成熟
+ WebCrawlerConsole.DoMain.Crawlername2017-11-30 09:04:26,429 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,存在相同【标题】的文章:郑商所举办咖啡期货可行性论证会
+ WebCrawlerConsole.DoMain.Crawlername2017-11-30 09:04:27,359 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,存在相同【标题】的文章:PPP加强风险管控 专家：预计今年基建投资增速降至14%
+ WebCrawlerConsole.DoMain.Crawlername2017-11-30 09:04:28,632 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,存在相同【标题】的文章:新华社：新三板改革箭在弦上
+ WebCrawlerConsole.DoMain.Crawlername2017-11-30 09:04:29,864 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,存在相同【标题】的文章:吴清：上交所积极响应"一带一路"倡议
+ WebCrawlerConsole.DoMain.Crawlername2017-11-30 09:04:30,821 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,存在相同【标题】的文章:新发审委再亮剑 IPO单日审核首现“零通过”
+ WebCrawlerConsole.DoMain.Crawlername2017-11-30 09:04:31,775 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,存在相同【标题】的文章:国家发改委要求明年煤电长协履约率不低于90%
+ WebCrawlerConsole.DoMain.Crawlername2017-11-30 09:04:31,777 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-11-30 09:04:35,970 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,采集结束,共采集1条...共耗时175960毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-11-30 09:04:35,972 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-11-30 09:04:38,990 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname

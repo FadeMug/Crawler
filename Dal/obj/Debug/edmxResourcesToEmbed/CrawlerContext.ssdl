@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FryModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Fry_Article">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TagId" Type="int" />
+    <Property Name="Tag" Type="nvarchar" MaxLength="50" />
+    <Property Name="Source" Type="nvarchar" MaxLength="50" />
+    <Property Name="Title" Type="nvarchar" MaxLength="100" />
+    <Property Name="Abstract" Type="nvarchar" MaxLength="500" />
+    <Property Name="BaiduUrl" Type="nvarchar" MaxLength="1000" />
+    <Property Name="RealUrl" Type="nvarchar" MaxLength="1000" />
+    <Property Name="Domain" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsVerify" Type="tinyint" />
+    <Property Name="PageContext" Type="ntext" />
+    <Property Name="Author" Type="nvarchar" MaxLength="100" />
+    <Property Name="PulDate" Type="nvarchar" MaxLength="100" />
+    <Property Name="Title_" Type="nvarchar" MaxLength="100" />
+    <Property Name="Type_" Type="nvarchar" MaxLength="50" />
+    <Property Name="ReleaseDate" Type="datetime" />
+    <Property Name="CreateTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Fry_Tag">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TagName" Type="varchar" MaxLength="50" />
+    <Property Name="TagMark" Type="varchar" MaxLength="50" />
+    <Property Name="TagType" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="FryModelStoreContainer">
+    <EntitySet Name="Fry_Article" EntityType="Self.Fry_Article" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Fry_Tag" EntityType="Self.Fry_Tag" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

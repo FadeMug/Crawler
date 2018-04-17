@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WebCrawlerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CrawlerCategory">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CategoryName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CreateTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CrawlerDetail">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CrawlerCategoryId" Type="int" />
+    <Property Name="ArticleCategoryId" Type="int" />
+    <Property Name="SourcesName" Type="nvarchar" MaxLength="50" />
+    <Property Name="SourcesUrl" Type="nvarchar" MaxLength="200" />
+    <Property Name="Isvalid" Type="bit" />
+    <Property Name="CreateTime" Type="datetime" />
+    <Property Name="IsSucessFetch" Type="bit" />
+    <Property Name="RunTime" Type="datetime" />
+    <Property Name="RunCount" Type="int" Nullable="false" />
+    <Property Name="RecentNewsTime" Type="datetime" />
+    <Property Name="IsDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="CrawlerMetalCategory_">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MetalCategory" Type="varchar" MaxLength="20" />
+    <Property Name="CreateTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CrawlerNews">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CrawlerDetailId" Type="int" />
+    <Property Name="CrawlerDetailName" Type="nvarchar" MaxLength="50" />
+    <Property Name="NewsTitle" Type="nvarchar" MaxLength="150" />
+    <Property Name="NewsSummary" Type="nvarchar" MaxLength="500" />
+    <Property Name="NewsContent" Type="nvarchar(max)" />
+    <Property Name="NewsAuthor" Type="nvarchar" MaxLength="50" />
+    <Property Name="NewsThumbnailImg" Type="nvarchar" MaxLength="500" />
+    <Property Name="NewsReleaseTime" Type="datetime" />
+    <Property Name="NewsSourceLink" Type="varchar" MaxLength="500" />
+    <Property Name="CreateTime" Type="datetime" />
+    <Property Name="IsOriginal" Type="bit" />
+    <Property Name="CopyRight" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsRead" Type="bit" />
+    <Property Name="ApplyType" Type="int" />
+  </EntityType>
+  <EntityType Name="CrawlerPriceCalculate">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VarietyCategory" Type="varchar" MaxLength="50" />
+    <Property Name="MaxPrice" Type="varchar" MaxLength="20" />
+    <Property Name="MinPrice" Type="varchar" MaxLength="20" />
+    <Property Name="Change" Type="varchar" MaxLength="20" />
+    <Property Name="OriginPlace" Type="varchar" MaxLength="50" />
+    <Property Name="ReleaseDate" Type="datetime" />
+    <Property Name="DayAvg" Type="varchar" MaxLength="20" />
+    <Property Name="Unit" Type="varchar" MaxLength="10" />
+    <Property Name="Tax" Type="varchar" MaxLength="20" />
+    <Property Name="Market" Type="varchar" MaxLength="50" />
+    <Property Name="Remark" Type="varchar" MaxLength="200" />
+    <Property Name="CreateTime" Type="datetime" />
+    <Property Name="VarietyCategoryId" Type="int" />
+    <Property Name="MetalCategoryId" Type="int" />
+    <Property Name="Spec" Type="varchar" MaxLength="50" />
+    <Property Name="IsManual" Type="int" />
+  </EntityType>
+  <EntityType Name="CrawlerPriceFormula">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VarietyCategoryId" Type="int" />
+    <Property Name="MaxFormula" Type="varchar" MaxLength="50" />
+    <Property Name="MinFormula" Type="varchar" MaxLength="50" />
+    <Property Name="AvgFormula" Type="varchar" MaxLength="50" />
+    <Property Name="CreateTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CrawlerPriceInitial">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VarietyName" Type="varchar" MaxLength="50" />
+    <Property Name="MaxPrice" Type="varchar" MaxLength="20" />
+    <Property Name="MinPrice" Type="varchar" MaxLength="20" />
+    <Property Name="Change" Type="varchar" MaxLength="20" />
+    <Property Name="OriginPlace" Type="varchar" MaxLength="50" />
+    <Property Name="ReleaseDate" Type="datetime" />
+    <Property Name="DayAvg" Type="varchar" MaxLength="20" />
+    <Property Name="Unit" Type="varchar" MaxLength="10" />
+    <Property Name="Tax" Type="varchar" MaxLength="20" />
+    <Property Name="Market" Type="varchar" MaxLength="50" />
+    <Property Name="Remark" Type="varchar" MaxLength="200" />
+    <Property Name="CreateTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CrawlerPriceResult_">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VarietyCategory" Type="varchar" MaxLength="50" />
+    <Property Name="MaxPrice" Type="varchar" MaxLength="20" />
+    <Property Name="MinPrice" Type="varchar" MaxLength="20" />
+    <Property Name="Change" Type="varchar" MaxLength="20" />
+    <Property Name="OriginPlace" Type="varchar" MaxLength="50" />
+    <Property Name="ReleaseDate" Type="datetime" />
+    <Property Name="DayAvg" Type="varchar" MaxLength="20" />
+    <Property Name="Unit" Type="varchar" MaxLength="10" />
+    <Property Name="Tax" Type="varchar" MaxLength="20" />
+    <Property Name="Market" Type="varchar" MaxLength="50" />
+    <Property Name="Remark" Type="varchar" MaxLength="200" />
+    <Property Name="CreateTime" Type="datetime" />
+    <Property Name="VarietyCategoryId" Type="int" />
+    <Property Name="WeekAvg" Type="varchar" MaxLength="20" />
+    <Property Name="MonthAvg" Type="varchar" MaxLength="20" />
+    <Property Name="MetalCategoryId" Type="int" />
+    <Property Name="Spec" Type="varchar" MaxLength="50" />
+    <Property Name="IsManual" Type="int" />
+  </EntityType>
+  <EntityType Name="CrawlerVarietyCategory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VarietyCategory" Type="varchar" MaxLength="50" />
+    <Property Name="Spec" Type="varchar" MaxLength="50" />
+    <Property Name="MetalCategoryId" Type="int" />
+    <Property Name="IsManual" Type="int" />
+    <Property Name="CreateTime" Type="datetime" />
+  </EntityType>
+  <!--生成过程中发现错误:
+警告 6002: 表/视图“360_SYS.dbo.CrawlerVarietyDetail”未定义主键。已推断出该键，并将定义创建为只读的表/视图。-->
+  <EntityType Name="CrawlerVarietyDetail">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VarietyCategoryId" Type="int" />
+    <Property Name="VarietyName" Type="varchar" MaxLength="50" />
+    <Property Name="CreateTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="h5_Article">
+    <Key>
+      <PropertyRef Name="article_id" />
+    </Key>
+    <Property Name="article_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="article_title" Type="nvarchar" MaxLength="50" />
+    <Property Name="author_id" Type="int" />
+    <Property Name="author_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="article_iscover" Type="tinyint" />
+    <Property Name="article_coverurl" Type="nvarchar(max)" />
+    <Property Name="article_isoriginal" Type="tinyint" />
+    <Property Name="articleCategory1_ID" Type="int" />
+    <Property Name="articleCategory1_Name" Type="nvarchar" MaxLength="20" />
+    <Property Name="articleCategory2_ID" Type="int" />
+    <Property Name="articleCategory2_Name" Type="nvarchar" MaxLength="20" />
+    <Property Name="articleCategory3_ID" Type="int" />
+    <Property Name="articleCategory3_Name" Type="nvarchar" MaxLength="20" />
+    <Property Name="article_isstick" Type="tinyint" />
+    <Property Name="article_releasetime" Type="datetime" />
+    <Property Name="article_createtime" Type="datetime" />
+    <Property Name="article_isrelease" Type="tinyint" />
+    <Property Name="article_isdelete" Type="tinyint" />
+    <Property Name="article_ishistory" Type="tinyint" />
+    <Property Name="showtype" Type="tinyint" />
+    <Property Name="is_delay_release" Type="bit" />
+    <Property Name="delay_release_time" Type="datetime" />
+  </EntityType>
+  <EntityType Name="h5_ArticleCategory">
+    <Key>
+      <PropertyRef Name="articlecategory_id" />
+    </Key>
+    <Property Name="articlecategory_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="articlecategory_parentid" Type="int" />
+    <Property Name="articlecategory_name" Type="nvarchar" MaxLength="20" />
+    <Property Name="articlecategory_sort" Type="int" />
+    <Property Name="icon_uri" Type="varchar" MaxLength="200" />
+    <Property Name="bg_color" Type="varchar" MaxLength="20" />
+    <Property Name="checked_icon_uri" Type="varchar" MaxLength="200" />
+    <Property Name="is_valid" Type="bit" />
+  </EntityType>
+  <EntityType Name="h5_ArticleContent">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="article_id" Type="int" />
+    <Property Name="articlecontent" Type="ntext" />
+  </EntityType>
+  <EntityType Name="SYS_Staff">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="RoleID" Type="int" />
+    <Property Name="DepartmentID" Type="int" />
+    <Property Name="JobNumber" Type="nvarchar" MaxLength="80" Nullable="false" />
+    <Property Name="StaffName" Type="nvarchar" MaxLength="10" />
+    <Property Name="StaffPassword" Type="nvarchar" MaxLength="50" />
+    <Property Name="StaffMobile" Type="char" MaxLength="11" />
+    <Property Name="RoleName" Type="nvarchar" MaxLength="10" />
+    <Property Name="DepartmentName" Type="nvarchar" MaxLength="10" />
+    <Property Name="CreateTime" Type="datetime" />
+    <Property Name="UpdateTime" Type="datetime" />
+    <Property Name="StaffDelete" Type="tinyint" />
+  </EntityType>
+  <EntityType Name="SYS_StaffCount">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="StaffID" Type="uniqueidentifier" />
+    <Property Name="LoginCount" Type="int" />
+    <Property Name="StaffLastLoginTime" Type="datetime" />
+    <Property Name="JointCount" Type="tinyint" />
+  </EntityType>
+  <EntityContainer Name="WebCrawlerModelStoreContainer">
+    <EntitySet Name="CrawlerCategory" EntityType="Self.CrawlerCategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CrawlerDetail" EntityType="Self.CrawlerDetail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CrawlerMetalCategory_" EntityType="Self.CrawlerMetalCategory_" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CrawlerNews" EntityType="Self.CrawlerNews" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CrawlerPriceCalculate" EntityType="Self.CrawlerPriceCalculate" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CrawlerPriceFormula" EntityType="Self.CrawlerPriceFormula" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CrawlerPriceInitial" EntityType="Self.CrawlerPriceInitial" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CrawlerPriceResult_" EntityType="Self.CrawlerPriceResult_" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CrawlerVarietyCategory" EntityType="Self.CrawlerVarietyCategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="h5_Article" EntityType="Self.h5_Article" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="h5_ArticleCategory" EntityType="Self.h5_ArticleCategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="h5_ArticleContent" EntityType="Self.h5_ArticleContent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SYS_Staff" EntityType="Self.SYS_Staff" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SYS_StaffCount" EntityType="Self.SYS_StaffCount" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CrawlerVarietyDetail" EntityType="Self.CrawlerVarietyDetail" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [CrawlerVarietyDetail].[Id] AS [Id], 
+    [CrawlerVarietyDetail].[VarietyCategoryId] AS [VarietyCategoryId], 
+    [CrawlerVarietyDetail].[VarietyName] AS [VarietyName], 
+    [CrawlerVarietyDetail].[CreateTime] AS [CreateTime]
+    FROM [dbo].[CrawlerVarietyDetail] AS [CrawlerVarietyDetail]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

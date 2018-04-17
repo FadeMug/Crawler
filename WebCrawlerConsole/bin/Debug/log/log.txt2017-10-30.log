@@ -1,0 +1,29 @@
+2017-10-30 08:35:36,851 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-10-30 08:35:39,193 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:35:42,045 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,存在相同【标题】的文章:近千家公司预告全年业绩 八成预喜三产业领跑
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:35:42,264 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,存在相同【标题】的文章:京津冀环保联动执法 攻坚秋冬季大气污染
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:35:42,552 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,存在相同【标题】的文章:四大期交所学习贯彻党的十九大精神
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:35:42,554 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:35:42,740 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,采集结束,共采集1条...共耗时3545毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:35:42,742 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:35:42,807 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-10-30 08:37:03,208 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-10-30 08:37:03,900 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:37:05,009 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:37:05,011 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,采集结束,共采集0条...共耗时1109毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:37:05,013 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:37:05,094 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-10-30 08:37:46,944 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-10-30 08:37:47,591 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:37:48,797 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,新闻内容未更新,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:37:48,798 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,采集结束,共采集0条...共耗时1205毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:37:48,800 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 08:37:48,879 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-10-30 11:29:06,700 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-10-30 11:29:14,655 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 11:30:03,688 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,http://impnews.wenhua.com.cn/NewsManagement/NewsMoreList?id=0&type=3&page=1,采集异常,div.b_bblist元素获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 11:30:04,221 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 11:30:04,223 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 文华财经-头条,采集结束,共采集0条...共耗时49566毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 11:30:04,225 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-10-30 11:30:04,559 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname

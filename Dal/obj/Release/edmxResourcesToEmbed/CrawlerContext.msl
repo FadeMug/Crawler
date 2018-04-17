@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WebCrawlerModelStoreContainer" CdmEntityContainer="CrawlerEntities">
+    <EntitySetMapping Name="CrawlerCategory">
+      <EntityTypeMapping TypeName="WebCrawlerModel.CrawlerCategory">
+        <MappingFragment StoreEntitySet="CrawlerCategory">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="h5_Article">
+      <EntityTypeMapping TypeName="WebCrawlerModel.h5_Article">
+        <MappingFragment StoreEntitySet="h5_Article">
+          <ScalarProperty Name="article_id" ColumnName="article_id" />
+          <ScalarProperty Name="article_title" ColumnName="article_title" />
+          <ScalarProperty Name="author_id" ColumnName="author_id" />
+          <ScalarProperty Name="author_name" ColumnName="author_name" />
+          <ScalarProperty Name="article_iscover" ColumnName="article_iscover" />
+          <ScalarProperty Name="article_coverurl" ColumnName="article_coverurl" />
+          <ScalarProperty Name="article_isoriginal" ColumnName="article_isoriginal" />
+          <ScalarProperty Name="articleCategory1_ID" ColumnName="articleCategory1_ID" />
+          <ScalarProperty Name="articleCategory1_Name" ColumnName="articleCategory1_Name" />
+          <ScalarProperty Name="articleCategory2_ID" ColumnName="articleCategory2_ID" />
+          <ScalarProperty Name="articleCategory2_Name" ColumnName="articleCategory2_Name" />
+          <ScalarProperty Name="articleCategory3_ID" ColumnName="articleCategory3_ID" />
+          <ScalarProperty Name="articleCategory3_Name" ColumnName="articleCategory3_Name" />
+          <ScalarProperty Name="article_isstick" ColumnName="article_isstick" />
+          <ScalarProperty Name="article_releasetime" ColumnName="article_releasetime" />
+          <ScalarProperty Name="article_createtime" ColumnName="article_createtime" />
+          <ScalarProperty Name="article_isrelease" ColumnName="article_isrelease" />
+          <ScalarProperty Name="article_isdelete" ColumnName="article_isdelete" />
+          <ScalarProperty Name="article_ishistory" ColumnName="article_ishistory" />
+          <ScalarProperty Name="showtype" ColumnName="showtype" />
+          <ScalarProperty Name="is_delay_release" ColumnName="is_delay_release" />
+          <ScalarProperty Name="delay_release_time" ColumnName="delay_release_time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="h5_ArticleCategory">
+      <EntityTypeMapping TypeName="WebCrawlerModel.h5_ArticleCategory">
+        <MappingFragment StoreEntitySet="h5_ArticleCategory">
+          <ScalarProperty Name="articlecategory_id" ColumnName="articlecategory_id" />
+          <ScalarProperty Name="articlecategory_parentid" ColumnName="articlecategory_parentid" />
+          <ScalarProperty Name="articlecategory_name" ColumnName="articlecategory_name" />
+          <ScalarProperty Name="articlecategory_sort" ColumnName="articlecategory_sort" />
+          <ScalarProperty Name="icon_uri" ColumnName="icon_uri" />
+          <ScalarProperty Name="bg_color" ColumnName="bg_color" />
+          <ScalarProperty Name="checked_icon_uri" ColumnName="checked_icon_uri" />
+          <ScalarProperty Name="is_valid" ColumnName="is_valid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="h5_ArticleContent">
+      <EntityTypeMapping TypeName="WebCrawlerModel.h5_ArticleContent">
+        <MappingFragment StoreEntitySet="h5_ArticleContent">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="article_id" ColumnName="article_id" />
+          <ScalarProperty Name="articlecontent" ColumnName="articlecontent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CrawlerNews">
+      <EntityTypeMapping TypeName="WebCrawlerModel.CrawlerNews">
+        <MappingFragment StoreEntitySet="CrawlerNews">
+          <ScalarProperty Name="ApplyType" ColumnName="ApplyType" />
+          <ScalarProperty Name="IsRead" ColumnName="IsRead" />
+          <ScalarProperty Name="CopyRight" ColumnName="CopyRight" />
+          <ScalarProperty Name="IsOriginal" ColumnName="IsOriginal" />
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="NewsSourceLink" ColumnName="NewsSourceLink" />
+          <ScalarProperty Name="NewsReleaseTime" ColumnName="NewsReleaseTime" />
+          <ScalarProperty Name="NewsThumbnailImg" ColumnName="NewsThumbnailImg" />
+          <ScalarProperty Name="NewsAuthor" ColumnName="NewsAuthor" />
+          <ScalarProperty Name="NewsContent" ColumnName="NewsContent" />
+          <ScalarProperty Name="NewsSummary" ColumnName="NewsSummary" />
+          <ScalarProperty Name="NewsTitle" ColumnName="NewsTitle" />
+          <ScalarProperty Name="CrawlerDetailName" ColumnName="CrawlerDetailName" />
+          <ScalarProperty Name="CrawlerDetailId" ColumnName="CrawlerDetailId" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CrawlerDetail">
+      <EntityTypeMapping TypeName="WebCrawlerModel.CrawlerDetail">
+        <MappingFragment StoreEntitySet="CrawlerDetail">
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="RecentNewsTime" ColumnName="RecentNewsTime" />
+          <ScalarProperty Name="RunCount" ColumnName="RunCount" />
+          <ScalarProperty Name="RunTime" ColumnName="RunTime" />
+          <ScalarProperty Name="IsSucessFetch" ColumnName="IsSucessFetch" />
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="Isvalid" ColumnName="Isvalid" />
+          <ScalarProperty Name="SourcesUrl" ColumnName="SourcesUrl" />
+          <ScalarProperty Name="SourcesName" ColumnName="SourcesName" />
+          <ScalarProperty Name="ArticleCategoryId" ColumnName="ArticleCategoryId" />
+          <ScalarProperty Name="CrawlerCategoryId" ColumnName="CrawlerCategoryId" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SYS_Staff">
+      <EntityTypeMapping TypeName="WebCrawlerModel.SYS_Staff">
+        <MappingFragment StoreEntitySet="SYS_Staff">
+          <ScalarProperty Name="StaffDelete" ColumnName="StaffDelete" />
+          <ScalarProperty Name="UpdateTime" ColumnName="UpdateTime" />
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="DepartmentName" ColumnName="DepartmentName" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+          <ScalarProperty Name="StaffMobile" ColumnName="StaffMobile" />
+          <ScalarProperty Name="StaffPassword" ColumnName="StaffPassword" />
+          <ScalarProperty Name="StaffName" ColumnName="StaffName" />
+          <ScalarProperty Name="JobNumber" ColumnName="JobNumber" />
+          <ScalarProperty Name="DepartmentID" ColumnName="DepartmentID" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SYS_StaffCount">
+      <EntityTypeMapping TypeName="WebCrawlerModel.SYS_StaffCount">
+        <MappingFragment StoreEntitySet="SYS_StaffCount">
+          <ScalarProperty Name="JointCount" ColumnName="JointCount" />
+          <ScalarProperty Name="StaffLastLoginTime" ColumnName="StaffLastLoginTime" />
+          <ScalarProperty Name="LoginCount" ColumnName="LoginCount" />
+          <ScalarProperty Name="StaffID" ColumnName="StaffID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CrawlerPriceFormula">
+      <EntityTypeMapping TypeName="WebCrawlerModel.CrawlerPriceFormula">
+        <MappingFragment StoreEntitySet="CrawlerPriceFormula">
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="AvgFormula" ColumnName="AvgFormula" />
+          <ScalarProperty Name="MinFormula" ColumnName="MinFormula" />
+          <ScalarProperty Name="MaxFormula" ColumnName="MaxFormula" />
+          <ScalarProperty Name="VarietyCategoryId" ColumnName="VarietyCategoryId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CrawlerVarietyCategory">
+      <EntityTypeMapping TypeName="WebCrawlerModel.CrawlerVarietyCategory">
+        <MappingFragment StoreEntitySet="CrawlerVarietyCategory">
+          <ScalarProperty Name="IsManual" ColumnName="IsManual" />
+          <ScalarProperty Name="Spec" ColumnName="Spec" />
+          <ScalarProperty Name="MetalCategoryId" ColumnName="MetalCategoryId" />
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="VarietyCategory" ColumnName="VarietyCategory" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CrawlerVarietyDetail">
+      <EntityTypeMapping TypeName="WebCrawlerModel.CrawlerVarietyDetail">
+        <MappingFragment StoreEntitySet="CrawlerVarietyDetail">
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="VarietyName" ColumnName="VarietyName" />
+          <ScalarProperty Name="VarietyCategoryId" ColumnName="VarietyCategoryId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CrawlerPriceInitial">
+      <EntityTypeMapping TypeName="WebCrawlerModel.CrawlerPriceInitial">
+        <MappingFragment StoreEntitySet="CrawlerPriceInitial">
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="Remark" ColumnName="Remark" />
+          <ScalarProperty Name="Market" ColumnName="Market" />
+          <ScalarProperty Name="Tax" ColumnName="Tax" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+          <ScalarProperty Name="DayAvg" ColumnName="DayAvg" />
+          <ScalarProperty Name="ReleaseDate" ColumnName="ReleaseDate" />
+          <ScalarProperty Name="OriginPlace" ColumnName="OriginPlace" />
+          <ScalarProperty Name="Change" ColumnName="Change" />
+          <ScalarProperty Name="MinPrice" ColumnName="MinPrice" />
+          <ScalarProperty Name="MaxPrice" ColumnName="MaxPrice" />
+          <ScalarProperty Name="VarietyName" ColumnName="VarietyName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CrawlerPriceCalculate">
+      <EntityTypeMapping TypeName="WebCrawlerModel.CrawlerPriceCalculate">
+        <MappingFragment StoreEntitySet="CrawlerPriceCalculate">
+          <ScalarProperty Name="IsManual" ColumnName="IsManual" />
+          <ScalarProperty Name="Spec" ColumnName="Spec" />
+          <ScalarProperty Name="MetalCategoryId" ColumnName="MetalCategoryId" />
+          <ScalarProperty Name="VarietyCategoryId" ColumnName="VarietyCategoryId" />
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="Remark" ColumnName="Remark" />
+          <ScalarProperty Name="Market" ColumnName="Market" />
+          <ScalarProperty Name="Tax" ColumnName="Tax" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+          <ScalarProperty Name="DayAvg" ColumnName="DayAvg" />
+          <ScalarProperty Name="ReleaseDate" ColumnName="ReleaseDate" />
+          <ScalarProperty Name="OriginPlace" ColumnName="OriginPlace" />
+          <ScalarProperty Name="Change" ColumnName="Change" />
+          <ScalarProperty Name="MinPrice" ColumnName="MinPrice" />
+          <ScalarProperty Name="MaxPrice" ColumnName="MaxPrice" />
+          <ScalarProperty Name="VarietyCategory" ColumnName="VarietyCategory" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CrawlerPriceResult_">
+      <EntityTypeMapping TypeName="WebCrawlerModel.CrawlerPriceResult_">
+        <MappingFragment StoreEntitySet="CrawlerPriceResult_">
+          <ScalarProperty Name="IsManual" ColumnName="IsManual" />
+          <ScalarProperty Name="Spec" ColumnName="Spec" />
+          <ScalarProperty Name="MetalCategoryId" ColumnName="MetalCategoryId" />
+          <ScalarProperty Name="MonthAvg" ColumnName="MonthAvg" />
+          <ScalarProperty Name="WeekAvg" ColumnName="WeekAvg" />
+          <ScalarProperty Name="VarietyCategoryId" ColumnName="VarietyCategoryId" />
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="Remark" ColumnName="Remark" />
+          <ScalarProperty Name="Market" ColumnName="Market" />
+          <ScalarProperty Name="Tax" ColumnName="Tax" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+          <ScalarProperty Name="DayAvg" ColumnName="DayAvg" />
+          <ScalarProperty Name="ReleaseDate" ColumnName="ReleaseDate" />
+          <ScalarProperty Name="OriginPlace" ColumnName="OriginPlace" />
+          <ScalarProperty Name="Change" ColumnName="Change" />
+          <ScalarProperty Name="MinPrice" ColumnName="MinPrice" />
+          <ScalarProperty Name="MaxPrice" ColumnName="MaxPrice" />
+          <ScalarProperty Name="VarietyCategory" ColumnName="VarietyCategory" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CrawlerMetalCategory_">
+      <EntityTypeMapping TypeName="WebCrawlerModel.CrawlerMetalCategory_">
+        <MappingFragment StoreEntitySet="CrawlerMetalCategory_">
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="MetalCategory" ColumnName="MetalCategory" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

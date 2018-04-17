@@ -1,0 +1,153 @@
+2017-12-11 09:58:25,725 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 09:58:27,922 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:17:30,606 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:18:12,988 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:19:01,804 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:19:03,973 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:19:05,373 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:19:06,657 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:19:08,406 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:19:09,747 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:19:11,038 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:19:12,766 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:19:12,767 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,采集结束,共采集80条...共耗时1244841毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:19:12,768 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:19:13,020 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-11 10:21:32,534 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 10:21:33,616 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:21:37,230 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:21:37,555 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,采集结束,共采集5条...共耗时3937毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:21:37,556 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:21:37,607 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-11 10:23:05,918 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 10:23:07,552 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:23:10,206 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:通用如何规划在华电气化战略？建17.2亿电池工厂 推出10款新能源车型
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:23:10,473 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:2017年中国动力锂电池报废市场规模及梯次利用技术分析
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:23:11,086 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:锂电设备企业扎堆资本市场 竞争格局或产生巨大变量
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:23:11,676 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:六大关键词还原2017新三板锂电企业生存状态
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:23:12,356 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:50亿起步！2017年十大锂电池投资项目盘点！
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:23:12,359 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,新闻内容已到上一次最后采集新闻,结束采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:23:12,361 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,采集结束,共采集0条...共耗时4806毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:23:12,363 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:23:13,392 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-11 10:24:20,753 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 10:24:23,410 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:01,064 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:通用如何规划在华电气化战略？建17.2亿电池工厂 推出10款新能源车型
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:01,237 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:2017年中国动力锂电池报废市场规模及梯次利用技术分析
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:01,354 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:锂电设备企业扎堆资本市场 竞争格局或产生巨大变量
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:01,789 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:六大关键词还原2017新三板锂电企业生存状态
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:01,997 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:50亿起步！2017年十大锂电池投资项目盘点！
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:02,704 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:04,571 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:05,714 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:07,374 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:09,133 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:10,921 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:12,372 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:15,736 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:17,587 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:19,189 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:19,191 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,采集结束,共采集75条...共耗时55779毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:19,194 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:25:19,281 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-11 10:53:35,200 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 10:53:36,847 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:43,470 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:通用如何规划在华电气化战略？建17.2亿电池工厂 推出10款新能源车型
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:44,038 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:2017年中国动力锂电池报废市场规模及梯次利用技术分析
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:44,469 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:锂电设备企业扎堆资本市场 竞争格局或产生巨大变量
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:44,656 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:六大关键词还原2017新三板锂电企业生存状态
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:44,812 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:50亿起步！2017年十大锂电池投资项目盘点！
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:45,265 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:46,479 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:47,934 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:49,435 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:52,071 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:53,640 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:56,576 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:53:58,795 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:54:00,910 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:54:03,500 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:54:03,511 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,采集结束,共采集75条...共耗时26658毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:54:03,524 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:54:03,647 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-11 10:54:54,881 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 10:54:56,110 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:55:38,551 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:通用如何规划在华电气化战略？建17.2亿电池工厂 推出10款新能源车型
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:55:40,816 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:2017年中国动力锂电池报废市场规模及梯次利用技术分析
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:55:42,570 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:锂电设备企业扎堆资本市场 竞争格局或产生巨大变量
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:55:44,570 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:六大关键词还原2017新三板锂电企业生存状态
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:55:46,207 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:50亿起步！2017年十大锂电池投资项目盘点！
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:55:56,763 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集异常,【新闻列表时间元素加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:57:48,091 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 10:57:49,111 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:57:58,044 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:通用如何规划在华电气化战略？建17.2亿电池工厂 推出10款新能源车型
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:58:00,021 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:2017年中国动力锂电池报废市场规模及梯次利用技术分析
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:58:01,044 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:锂电设备企业扎堆资本市场 竞争格局或产生巨大变量
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:58:02,495 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:六大关键词还原2017新三板锂电企业生存状态
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 10:58:04,628 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,存在相同【标题】的文章:50亿起步！2017年十大锂电池投资项目盘点！
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 11:06:35,951 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 北极星储能网-锂电池,采集结束,共采集475条...共耗时526839毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 11:06:35,953 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 11:06:36,019 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-11 13:54:41,875 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 13:54:42,959 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 13:54:56,329 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态采集异常,【新闻列表加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 13:55:19,969 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态采集异常,【新闻列表加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 13:55:41,827 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态采集异常,【新闻列表加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 13:58:01,099 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 13:58:02,322 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 13:59:18,699 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,新闻日期小于2017年1月1日,不再采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 13:59:31,380 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,采集结束,共采集0条...共耗时84409毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 13:59:32,308 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 13:59:48,065 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 13:59:49,109 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:03:19,030 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 14:03:20,209 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:06:00,565 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 【高工金球奖】三大技术优势 阿李自动化打造一流双拆边滴胶成型机,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:06:01,138 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 冠城瑞闽0.9GWh电芯及PACK自动化产线投产,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:06:02,417 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 【高工金球奖】佳的自动化：双工位全自动叠片机市场销量占比达31%,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:06:03,750 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 如何基于软件模型设计电池热管理系统？,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:06:04,422 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 高工年会观风向十二：2017电池技术领域大事记,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:06:53,209 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 14:06:54,141 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:07:02,254 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 【高工金球奖】三大技术优势 阿李自动化打造一流双拆边滴胶成型机,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:07:03,534 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 冠城瑞闽0.9GWh电芯及PACK自动化产线投产,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:07:04,787 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 【高工金球奖】佳的自动化：双工位全自动叠片机市场销量占比达31%,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:07:05,485 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 如何基于软件模型设计电池热管理系统？,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:07:06,733 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 高工年会观风向十二：2017电池技术领域大事记,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:07:07,992 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 临汾旅游迎来新时代  新宇等纯电动大巴迎接新商机,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:07:27,033 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 14:07:27,991 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:08:13,879 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 【高工金球奖】三大技术优势 阿李自动化打造一流双拆边滴胶成型机,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:09:54,025 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/news/, 冠城瑞闽0.9GWh电芯及PACK自动化产线投产,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:10:58,090 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com//asdisp2-65b095fb-31401-.html,文章详情div_newsContent为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:11:56,864 [4] ERROR WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,http://news.gg-lb.com/asdisp2-65b095fb-31400-.html,文章详情div_newsContent为空
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:15:30,455 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 14:15:31,578 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:17:35,255 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,存在相同【标题】的文章: 吴锋院士：新型二次电池及其关键材料研究进展
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:20:21,281 [4] WARN  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,存在相同【标题】的文章: 车和家SEV官图发布 李想称将在巴黎/旧金山启动共享服务
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:24:20,889 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态,采集结束,共采集328条...共耗时529309毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:24:20,891 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 14:24:20,942 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname2017-12-11 16:24:26,741 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 16:24:31,127 [4] INFO  WebCrawlerConsole.DoMain.Crawler - 高工锂电-行业动态采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 16:24:46,721 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 16:24:48,312 [4] INFO  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 16:31:41,082 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 16:31:42,815 [4] INFO  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 16:32:48,281 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 16:32:49,487 [4] INFO  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 16:35:51,390 [4] ERROR WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池采集异常,【新闻列表加载失败】
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 16:36:33,305 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 16:36:39,920 [4] INFO  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 17:03:50,187 [1] INFO  WebCrawler.Services.Program - 文章采集系统开始...
+ WebCrawler.Services.Programname2017-12-11 17:03:51,012 [4] INFO  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池采集开始***************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 17:08:17,815 [4] ERROR WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,http://libattery.ofweek.com/CAT-36001-lidianchi-25.html,【深度】锂电池产业链的中日韩大战,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 17:09:27,386 [4] ERROR WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,http://libattery.ofweek.com/CAT-36001-lidianchi-27.html,丰田想靠固态电池打败特斯拉 这事儿靠谱么？,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 17:11:38,863 [4] ERROR WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,http://libattery.ofweek.com/CAT-36001-lidianchi-35.html,新能源汽车发展撬动千亿动力电池市场,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 17:14:49,961 [4] ERROR WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,http://libattery.ofweek.com/CAT-36001-lidianchi-48.html,探访韩国SK集团瑞山动力电池工厂,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 17:18:17,909 [4] ERROR WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,http://libattery.ofweek.com/CAT-36001-lidianchi-65.html,研究人员开发陶瓷电极：更加安全高效的锂电池,文章内容获取失败
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 17:22:45,496 [4] WARN  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,新闻日期小于2017年1月1日,不再采集
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 17:22:45,618 [4] INFO  WebCrawlerConsole.DoMain.Crawler - OFweek锂电网-锂电池,采集结束,共采集1660条...共耗时1134605毫秒********
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 17:22:45,620 [4] INFO  WebCrawlerConsole.DoMain.Crawler - *******************************************************************************************
+ WebCrawlerConsole.DoMain.Crawlername2017-12-11 17:22:45,682 [1] INFO  WebCrawler.Services.Program - 采集结束
+ WebCrawler.Services.Programname
